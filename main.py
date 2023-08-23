@@ -22,7 +22,7 @@ def parse_text(text):
         for subline in parts:
             print("partial line")
             print(subline)
-            if subline.startswith("CM."):
+            if subline.startswith("CM.") or subline.startswith("CS."):
                 answer_cnt = 0
                 current_section_idx += 1
                 if possible_sections[current_section_idx] == "ro":
