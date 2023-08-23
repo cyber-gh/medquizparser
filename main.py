@@ -33,6 +33,9 @@ def parse_text(text):
                     answers.append(subline[2:].strip())
             elif answer_cnt >= 4:
                 explanation = explanation + subline
+            else:
+                if possible_sections[current_section_idx] == "ro" and len(answers) != 0:
+                    answers[-1] = answers[-1] + " " + subline
 
     return question, answers, explanation
 
