@@ -16,19 +16,23 @@ def parse_text(text):
             continue
         if line.split(".")[0].isnumeric():
             continue
-        if line.startswith("CM."):
-            current_section_idx += 1
-            if possible_sections[current_section_idx] == "ro":
-                question = line.split("CM.")[-1]
-        elif line.startswith("A.") or line.startswith("B.") or line.startswith("C.") or line.startswith("D.") or line.startswith("E.") or line.startswith("F."):
-            if possible_sections[current_section_idx] == "ro":
-                answers.append(line)
-        else:
-            explanation = explanation + line
+        parts = re.split(r'(?=[A-EА-Е]\.)', line)
 
-
+        for subline in parts:
+            print("partial line")
+            print(subline)
+            if subline.startswith("CM."):
+                current_section_idx += 1
+                if possible_sections[current_section_idx] == "ro":
+                    question = subline.split("CM.")[-1]
+            elif re.match(r'^[A-FА-Ж]\.', subline):
+                if possible_sections[current_section_idx] == "ro":
+                    answers.append(subline[2:].strip())
+            else:
+                explanation = explanation + subline
 
     return question, answers, explanation
+
 
 def write_to_excel(question, answers, explanation):
     # Load or create an Excel workbook
@@ -49,6 +53,7 @@ def write_to_excel(question, answers, explanation):
 
     workbook.save('mastersheet.xlsx')
 
+
 def test():
     question, answers, explanation = parse_text(raw_test_data)
     print(question)
@@ -56,7 +61,6 @@ def test():
     print(explanation)
 
     write_to_excel(question, answers, explanation)
-
 
 
 if __name__ == '__main__':
@@ -77,4 +81,7 @@ if __name__ == '__main__':
             print("No data entered. Exiting.")
             break
         question, answers, explanation = parse_text(data)
+        print(question)
+        print(answers)
+        print(explanation)
         write_to_excel(question, answers, explanation)
