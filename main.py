@@ -10,6 +10,7 @@ def parse_text(text):
     question = ""
     answers = []
     explanation = ""
+    answer_cnt = 0
     for line in text.splitlines():
         line = line.strip()
         if len(line) == 0:
@@ -22,13 +23,15 @@ def parse_text(text):
             print("partial line")
             print(subline)
             if subline.startswith("CM."):
+                answer_cnt = 0
                 current_section_idx += 1
                 if possible_sections[current_section_idx] == "ro":
-                    question = subline.split("CM.")[-1]
+                    question = subline.split("CM.")[-1].strip()
             elif re.match(r'^[A-FА-Ж]\.', subline):
+                answer_cnt += 1
                 if possible_sections[current_section_idx] == "ro":
                     answers.append(subline[2:].strip())
-            else:
+            elif answer_cnt >= 4:
                 explanation = explanation + subline
 
     return question, answers, explanation

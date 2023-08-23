@@ -39,3 +39,54 @@ D. Tuberositas radii
 E. Фасция предплечья
 Flexorul radial al carpului își ia originea de pe epicondilul medial al humerusului, fascia antebrațului, și de la septele fibroase, care îl separă de pronatorul rotund și palmarul lung și se inseră pe baza osului metacarpian II trecând în prealabil prin canalul radial al carpului de sub retinaculul flexorilor; tendonul lui delimitează șanțul pulsului.
 Corect – „B” și „E”."""
+
+
+"""
+
+CM. Originea musculus extensor digitorum: А. Epicondylus lateralis humeri
+B. Epicondylus medialis humeri
+C. Olecranon
+D. Tuberositas radii E. Fascia antebrachii
+CM. The origin of the musculus extensor digitorum is: А. Epicondylus lateralis humeri
+B. Epicondylus medialis humeri
+C. Olecranon
+D. Tuberositas radii E. Fascia antebrachii
+CM. Musculus extensor digitorum начинается от: A. Epicondylus lateralis humeri
+B. Epicondylus medialis humeri
+C. Olecranon
+D. Tuberositas radii E. Fascia antebrachii
+Mușchiul extensor al degetelor își are originea pe epicondilul lateral al humerusului și pe fascia antebrațului. Distal mușchiul formează patru tendoane, care se inseră pe fața dorsală a falangelor într-un mod cu totul deosebit.
+Enunțuri corecte sunt „A” și „E”.
+"""
+
+"""
+
+CM. Muşchii mâinii, eminenţa tenară:
+A. Se disting muşchii palmari, dorsali şi interosoşi.
+B. Sunt situaţi în trei planuri.
+C. Cel mai profund muşchi din grup este m.opozant al policelului.
+  81.
+ 82.
+358
+D. Toţi, cu excepţia adductorului policelului, au originea pe rândul proximal al oaselor carpiene.
+E. M.opozant al policelului se inseră pe primul os metacarpian.
+CM. Choose the true statements about thenar group of hand muscles:
+A. There are palmar, dorsal and interosal muscles.
+B. They are arranged in 3 levels.
+C. The deepest hand muscle is m.opponens pollicis.
+D. All hand muscles, with exception of m. adductor pollicis, originate from the proximal row carpal bones.
+E. M.opponens pollicis is inserted to the first metacarpal bone.
+CM. Мышцы кисти, возвышения большого пальца:
+A. Различают ладонные, тыльные и межкостные м-цы.
+B. Расположены в три слоя.
+С. Самой глубокой является м-ца противопостаиляющая большой палец.
+D. Все м-цы, кроме аддуктора большого пальца, начинаются от запястных костей
+проксимального ряда.
+E. М-ца, противопостаиляющая большой палец, прикрепляется на первой пястной кости.
+Mușchii mâinii sunt amplasați numai pe fața palmară și în spațiile intermetacarpiene; pe fața dorsală a mâinii se află numai tendoanele mușchilor posteriori ai antebrațului.
+Mușchii mâinii formează trei grupuri:
+- lateral (eminența tenară);
+- medial (eminența hipotenară);
+- mediu (lombricalii, interosoșii palmari și dorsali).
+Mușchii eminenței tenare sunt dispuși în trei planuri. În primul plan se află abductorul scurt al policelui, în planul al doilea – apozantul policelui și flexorul scurt al policelui, în planul al treilea – adductorul policelui. Ei au originea unii pe oasele carpiene din rândul I, alții pe carpienele din rândul II, pe metacarpiene și pe retinaculul flexorilor și inserția sau pe osul metacarpian I (mușchiul apozant al policelui), sau pe falanga proximală a policelui. Astfel corecte sunt numai enunțurile „B” și „E”.
+"""
