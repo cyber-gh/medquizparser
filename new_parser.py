@@ -62,7 +62,10 @@ def main():
         # Checks if it's a nr. row
         if len(line.split(".")) > 0 and line.split(".")[0].isnumeric() and "." in line:
             question_nr = line.split(".")[0]
-            in_question = False
+            if in_question and 0 < len(current_question["answers"]) < 4:
+                in_question = True
+            else:
+                in_question = False
         elif line.startswith("CM.") or line.startswith("CS.") or line.startswith("SC.") or line.startswith(
                 "MC.") or line.startswith("СМ.") or line.startswith("CS.") or line.startswith("SC.") or line.startswith(
                 "CМ."):
@@ -84,8 +87,10 @@ def main():
     while idx < len(questions) - 2:
         lang = detect_language(questions[idx]["question"])
         if lang == "ro":
-            print(questions[idx])
+            print("RO Question ", questions[idx])
             write_to_excel(questions[idx]["question"], questions[idx]["answers"], questions[idx + 2]["explanation"])
+        else:
+            print(questions[idx])
         idx += 1
 
 
