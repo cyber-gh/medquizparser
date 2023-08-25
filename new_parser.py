@@ -36,7 +36,7 @@ def main():
 
     # lines = [item.strip() for line in lines for item in re.split(r'(?=[A-FА-Ж]\.)', line) if item]
     lines = [item.strip() for line in lines for item in
-             (re.split(r'(?=[A-FА-Ж]\.)', line) if not line.startswith(('SC.', 'MC.')) else [line]) if item]
+             (re.split(r'(?=[A-FА-Ж]\.)', line) if not line.startswith(('SC.', 'MC.', "МВ.")) else [line]) if item]
 
     lines = [item.strip() for line in lines for item in re.split(r'(\d+\.)\s+', line) if item]
     with open("formatted_input.txt", "w") as fout:
@@ -66,9 +66,9 @@ def main():
                 in_question = True
             else:
                 in_question = False
-        elif line.startswith("CM.") or line.startswith("CS.") or line.startswith("SC.") or line.startswith(
-                "MC.") or line.startswith("СМ.") or line.startswith("CS.") or line.startswith("SC.") or line.startswith(
-                "CМ."):
+        elif line.startswith("CM") or line.startswith("CS") or line.startswith("SC") or line.startswith(
+                "MC") or line.startswith("СМ") or line.startswith("CS") or line.startswith("SC") or line.startswith(
+                "CМ") or line.startswith("СS") or line.startswith("МВ.") or line.startswith("СM."):
             # now we're parsing a question
             questions.append(current_question)
             in_question = True
@@ -84,15 +84,27 @@ def main():
                     current_question["explanation"] = current_question["explanation"] + line
     f.close()
     idx = 1
+    langs = []
     while idx < len(questions) - 2:
-        lang = detect_language(questions[idx]["question"])
-        if lang == "ro":
-            print("RO Question ", questions[idx])
-            write_to_excel(questions[idx]["question"], questions[idx]["answers"], questions[idx + 2]["explanation"])
-        else:
-            print(questions[idx])
-        idx += 1
+        lang = detect_language(questions[idx]["question"] + " ".join(x for x in questions[idx]["answers"]))
+        langs.append(lang)
+        if len(langs) >= 3:
+            if langs[-3:] == ["en", "en", "en"]:
+                print("Got 3 questions in en in a row, trying to autorecover")
+                idx -= 10
+            if langs[-3:] == ["ru", "ru", "ru"]:
+                print("Got 3 questions in ru in a row, trying to autorecover")
+                idx -= 11
 
+        # if lang != "en" and lang != "ru":
+        #     print("RO Question ", questions[idx])
+        #     write_to_excel(questions[idx]["question"], questions[idx]["answers"], questions[idx + 2]["explanation"])
+        # else:
+        #     print(questions[idx])
+        # idx += 1
+        print(questions[idx])
+        write_to_excel(questions[idx]["question"], questions[idx]["answers"], questions[idx + 2]["explanation"])
+        idx += 3
 
 
 if __name__ == "__main__":
