@@ -68,7 +68,7 @@ def main():
                 in_question = False
         elif line.startswith("CM") or line.startswith("CS") or line.startswith("SC") or line.startswith(
                 "MC") or line.startswith("СМ") or line.startswith("CS") or line.startswith("SC") or line.startswith(
-                "CМ") or line.startswith("СS") or line.startswith("МВ.") or line.startswith("СM."):
+                "CМ") or line.startswith("СS") or line.startswith("МВ") or line.startswith("СM"):
             # now we're parsing a question
             questions.append(current_question)
             in_question = True
@@ -77,11 +77,11 @@ def main():
             if in_question:
                 current_question["answers"].append(line[2:])
         else:
-            if in_question and 0 < len(current_question["answers"]) < 4:
+            if in_question and 0 < len(current_question["answers"]) < 4 and not line.isnumeric():
                 current_question["answers"][-1] = current_question["answers"][-1] + " " + line
             else:
                 if not line.isnumeric():
-                    current_question["explanation"] = current_question["explanation"] + line
+                    current_question["explanation"] = current_question["explanation"] + " " + line
     f.close()
     idx = 1
     langs = []
