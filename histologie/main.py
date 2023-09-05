@@ -28,10 +28,10 @@ def process_correct_answers(question):
         # print(answers[idx])
         if "[x]" in answers[idx]:
             correct_answers_idx.append(idx + 1)
-    clean_answers = [answer.replace("[ ]", "").replace("[x]", "") for answer in answers]
+    clean_answers = [answer.replace("[ ]", "").replace("[x]", "").strip() for answer in answers]
     return {
         "idx": question["idx"],
-        "question": question["question"],
+        "question": question["question"].strip(),
         "answers": clean_answers,
         "correct_answers_idx": correct_answers_idx,
         "explanation": ""
@@ -97,6 +97,7 @@ def main():
 
     in_question = False
     for line in lines:
+
         if len(line) == 0:
             in_question = False
             continue
@@ -115,11 +116,19 @@ def main():
                 "correct_answers_idx": [],
                 "explanation": ""
             }
-        if line.startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
+        elif "Autor:" in line:
+            continue
+        elif line.startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
             ans = line[2:]
             current_question["answers"].append(ans)
         else:
-            current_question["question"] = line
+            if 1 <= len(current_question["answers"]) < 4:
+                print("Warning -------")
+                print(line)
+                print("Warning -------")
+                current_question["answers"][-1] = current_question["answers"][-1] + "  " + line
+            else:
+                current_question["question"] = current_question["question"] + " " + line
 
     questions = questions[1:]
     questions.append(process_correct_answers(current_question))

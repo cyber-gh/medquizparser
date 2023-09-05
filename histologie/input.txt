@@ -2938,8 +2938,6 @@ Insulele pancreatice Langerhans:
 a) [ ] posedă funcţie exocrină
 b) [x] posedă funcţie endocrină
 c) [x] conţin celule beta şi celule alfa
-sec Autor: Globa
-
 d) [x] secretă insulina şi glucagonul
 e) [ ] secretă tripsina şi lipază ---------------------------------------------------------------------
 488. Mod de punctare: A3 Punctajul: 10 Timp pe intrebare: 0 sec Autor: Globa Tunica mucoasă a intestinului gros:
@@ -3237,12 +3235,6 @@ a) [ ] A
 b) [ ] B
 c) [ ] D d) [x] D1
 e) [ ] PP ---------------------------------------------------------------------
-Globa
-Globa
-Globa
-Globa
-Globa
-
 538. Mod de punctare: A3 Punctajul: 10 Timp pe intrebare: 0 sec Autor: sergiu
 Sistemul canalicular (componenta excretorie) a glandei salivare este format din canalele:
 a) [x] striate
