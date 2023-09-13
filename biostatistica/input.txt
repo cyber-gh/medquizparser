@@ -1,0 +1,3264 @@
+1. Selectați afirmația corectă despre statistică:
+a) studiază aspectele cantitative ale cazurilor individuale
+b) studiază aspectele calitative ale cazurilor individuale
+c) studiază aspectele cantitative şi calitative ale cazurilor individuale
+d) !studiază aspectele cantitative şi calitative ale fenomenelor sociale de masă
+e) studiază numai aspectele cantitative ale fenomenelor sociale de masă
+---------------------------------------------------------------------
+2. Indicați obiectivul fundamental al statisticii:
+a) !rezumarea şi analiza datelor statistice
+b) prelucrarea cantitativă a datele statistice
+c) colectarea datelor statistice
+d) analiza cazurilor individuale
+e) descrierea variabilitatății cazurilor individuale
+---------------------------------------------------------------------
+3. Selectaţi afirmaţia INCORECTĂ referitor la colectivitatea statistică:
+a) !este formată din elemente neomogene
+b) este delimitată din punct de vedere al conţinutului
+c) este formată din elemente, care au trăsături esenţiale comune
+d) este delimitată în spaţiu şi timp
+e) poate fi atât statică, cât şi dinamică
+---------------------------------------------------------------------
+4. Selectaţi semnificaţiile corecte ale termenului de statistică:
+a) !metodologie statistică
+b) date statistice
+c) !activitate practică
+d) !metodă statistică
+e) metodă sociologică
+---------------------------------------------------------------------
+5. Selectați obiectivele biostatisticii:
+a) !studierea stării sănătăţii populaţiei
+b) studierea stării sănătăţii individuale
+c) !colectarea şi analiza datelor referitor la activitatea instituţiilor medicale
+d) !evidenţierea particularităţilor în starea sănătăţii populaţiei
+e) evidenţierea particularităţilor în starea sănătăţii individuale
+---------------------------------------------------------------------
+6. Precizați cum se numește elementul component al colectivităţi statistice:
+a) variabilă statistică
+b) !unitate statistică
+c) model statistic
+d) indicator statistic
+e) populaţie statistică
+---------------------------------------------------------------------
+7. Selectați un tip al colectivităţii statistice:
+a) nealternativă
+b) primară
+c) cantitativă
+d) factorială
+e) !dinamică
+---------------------------------------------------------------------
+8. Precizați denumirea criteriului ce caracterizează unitatea statistică:
+a) model statistic
+b) informaţie statistică
+c) !variabilă statistică
+d) parametru statistic
+e) coeficient statistic
+---------------------------------------------------------------------
+9. Selectați clasificarea corectă a variabilelor statistice:
+a) calitative sau nominative
+b) alternative sau binare
+c) primare sau absolute
+d) !calitative sau cantitative
+e) cantitative sau numerice
+---------------------------------------------------------------------
+10. Selectați activitatea specifică etapei de observare statistică:
+a) interpretarea rezultatelor
+b) sistematizarea datelor statistice
+c) calcularea indicatorilor statistici
+d) prelucrarea datelor statistice
+e) !obţinerea datelor şi informaţiilor statistice
+---------------------------------------------------------------------
+11. Selectați activitatea specifică etapei de prelucrare statistică:
+a) obţinerea datelor şi informaţiilor statistice
+b) !calcularea indicatorilor statistici
+c) formularea concluziilor
+d) interpretarea rezultatelor
+e) analiza primară a rezultatelor
+---------------------------------------------------------------------
+12. Selectați categoria corectă de clasificare pentru variabila „număr de bolnavi”:
+a) cantitativă continuă
+b) calitativă continuă
+c) !cantitativă discretă
+d) calitativă discretă
+e) cantitativă nealternativă
+---------------------------------------------------------------------
+13. Selectați categoria corectă de clasificare pentru variabila „starea pacientului la internare”:
+a) cantitativă continuă
+b) cantitativă nealternativă
+c) !calitativă nealternativă
+d) calitativă alternativă
+e) calitativă continuă
+---------------------------------------------------------------------
+14. Selectați categoria corectă de clasificare pentru variabila „colesterol”:
+a) !cantitativă continuă
+b) cantitativă discretă
+c) cantitativă nealternativă
+d) cantitativă alternativă
+e) nominativă continuă
+---------------------------------------------------------------------
+15. Selectați categoria corectă de clasificare pentru variabila „grupa sanguina”:
+a) calitativă alternativă
+b) calitativă continuă
+c) !calitativă nealternativă
+d) cantitativă nealternativă
+e) cantitativă alternativă
+---------------------------------------------------------------------
+16. Selectați funcțiile indicatorului statistic:
+a) !de comparare
+b) de control
+c) de planificare
+d) !de verificare a ipotezelor
+e) !de testare a semnificaţiei
+---------------------------------------------------------------------
+17. Selectați funcția care NU aparține indicatorului statistic:
+a) de comparare
+b) !de coordonare
+c) de sinteză
+d) de estimare
+e) de măsurare
+---------------------------------------------------------------------
+18. Selectaţi afirmaţia GREȘITĂ despre scala de interval:
+a) diferenţa dintre două numere ale scalei are semnificaţie precisă
+b) valoarea zero nu semnifică absenţa completă a caracteristicii urmărite
+c) multiplicarea sau divizarea valorilor, pe această scală, nu are sens
+d) !permite utilizare exclusivă a medianei
+e) permite utilizarea majorității indicatorilor statistici
+---------------------------------------------------------------------
+19. Selectați scala corectă pentru măsurarea variabilei „greutatea”:
+a) de interval
+b) !de raport
+c) ordinală
+d) nominală
+e) factorială
+---------------------------------------------------------------------
+20. Selectați scala corectă pentru măsurarea variabilei „culoarea ochilor”:
+a) ordinală
+b) factorială
+c) !nominală
+d) de interval
+e) de raport
+---------------------------------------------------------------------
+21. Selectați scala corectă pentru măsurarea variabilei "grupa sanguină":
+a) !nominală
+b) de raport
+c) ordinală
+d) factorială
+e) de interval
+---------------------------------------------------------------------
+22. Selectați scala corectă pentru măsurarea variabilei "nivelul activității procesului patologic":
+a) nominală
+b) de raport
+c) !ordinală
+d) factorială
+e) de interval
+---------------------------------------------------------------------
+23. Selectaţi afirmaţia validă despre cercetarea statistică curentă:
+a) se utilizează în cazul variaţiei mici în timp a fenomenului
+b) !se utilizează în cazul variaţiei intense în timp a fenomenului
+c) se mai numeşte cercetare special organizată
+d) se efectuează la anumite intervale de timp
+e) nu este permanentă
+---------------------------------------------------------------------
+24. Selectați afirmația corectă despre recensământ:
+a) este o metodă de observare totală, permanentă
+b) !este o metodă de observare totală, periodică
+c) este o metodă de observare parţială, special organizată
+d) este o metodă de observare parţială, periodică
+e) este o metodă de observare parţială, permanentă
+---------------------------------------------------------------------
+25. Precizați modul corect de calcul a probabilității de apariție a evenimentului (p):
+a) raportul dintre numărul total de rezultate ale experimentului şi numărul de rezultate
+favorabile
+b) !raportul dintre numărul de rezultate favorabile şi numărul total de rezultate ale
+experimentului
+c) raportul dintre numărul de rezultate favorabile şi numărul de rezultate nefavorabile
+d) raportul dintre numărul de rezultate nefavorabile şi numărul total de rezultate
+ale experimentului
+e) raportul dintre numărul de rezultate nefavorabile şi numărul de rezultate favorabile
+---------------------------------------------------------------------
+26. Selectați modul corect de calcul a probabilității lipsei evenimentului (q):
+a) q = (m-n)/n
+b) !q = (n-m)/n
+c) q = (n-m)/m
+d) q = (m-n)/m
+e) q = (m-q)/n
+---------------------------------------------------------------------
+27. Selectaţi afirmaţia corectă despre prima aplicaţie a Legii cifrelor mari:
+a) odată cu majorarea volumului eșantionului, rezultatele din eșantion se vor îndepărta de
+cele obţinute în populația statistică
+b) odată cu majorarea volumului eșantionului, rezultatele din eșantion vor fi identice
+cu rezultatele obţinute în populația statistică
+c) !odată cu majorarea volumului eșantionului, rezultatele din eșantion tind să
+reproducă rezultatele obţinute în populația statistică
+d) odată cu majorarea volumului eșantionului, rezultatele din eșantion vor fi maximal
+apropiate de cele obţinute în populația statistică
+e) odată cu majorarea volumului eșantionului, rezultatele din eșantion vor fi maximal
+îndepărtate de cele obţinute în populația statistică
+---------------------------------------------------------------------
+28. Selectaţi afirmaţia FALSĂ cu privire la criteriile cercetării ştiinţifice:
+a) rezultatele cercetării ştiinţifice nu sunt „dogmatice"
+b) rezultatele cercetării ştiinţifice sunt documentate minuţios
+c) !rezultatele cercetării ştiinţifice sunt „dogmatice"
+d) rezultatele proprii şi ale altora trebuie analizate critic
+e) rezultatele cercetării ştiinţifice pot fi confirmate sau infirmate
+---------------------------------------------------------------------
+29. Selectați ce NU include etapa de pregătire a studiului:
+a) documentarea bibliografică
+b) formularea ipotezei cercetării
+c) alegerea tipului de studiu
+d) !prelucrarea datelor
+e) stabilirea planului de cercetare
+---------------------------------------------------------------------
+30. Selectaţi caracteristicile fenomenelor sociale de masă:
+a) !sunt fenomene complexe
+b) sunt fenomene simple
+c) sunt fenomene tipice
+d) !se produc în condiţii de incertitudine
+e) au caracter determinist
+---------------------------------------------------------------------
+31. Selectați afirmațiile GREȘITE despre fenomenele sociale de masă:
+a) se produc în condiţii de incertitudine
+b) !au caracter determinist
+c) !se caracterizează prin variabilitate mică
+d) au forma individuală diferită de manifestare
+e) !permit cunoașterea legității de apariție şi manifestare la nivel individual
+---------------------------------------------------------------------
+32. Selectați afirmațiile corecte despre fenomenele sociale de masă:
+a) !au caracter nedeterminist
+b) !au caracter multifactorial
+c) se produc în condiţii cunoscute
+d) prezintă variabilitate mică
+e) !permit cunoașterea legității de apariție şi manifestare numai la nivel
+populațional
+---------------------------------------------------------------------
+33. Selectaţi afirmaţiile corecte despre statistica descriptivă:
+a) estimează caracteristicile unei colectivităţi
+b) măsoară incertitudinea rezultatelor
+c) !descrie caracteristicile unei colectivităţi
+d) !obține și prelucrează datele statistice
+e) estimează parametrii şi testează ipotezele
+---------------------------------------------------------------------
+34. Precizați obiectivele biostatisticii:
+a) !evaluarea stării sănătăţii populaţiei
+b) aprecierea stării sănătăţii individuale
+c) evidenţierea particularităţilor stării sănătăţii individuale
+d) !evaluarea eficacităţii metodelor de tratament şi profilaxie
+e) !aplicarea metodelor statistice în cercetările clinice şi experimentale
+---------------------------------------------------------------------
+35. Selectaţi afirmaţiile corecte privitor la colectivitatea statistică:
+a) !este formată din elemente relativ omogene
+b) este infinită din punct de vedere al volumului
+c) !este delimitată în spaţiu şi timp
+d) !poate fi statică şi dinamică
+e) nu se delimitează din punct de vedere al volumului
+---------------------------------------------------------------------
+36. Selectaţi compartimentele biostatisticii:
+a) !statistica sănătăţii populaţiei
+b) !statistica sistemului de sănătate
+c) studierea stării sănătăţii populaţiei
+d) !statistica cercetărilor medico-biologice
+e) evaluarea eficacităţii metodelor de tratament
+---------------------------------------------------------------------
+37. Selectaţi caracteristicile colectivităţii statistice:
+a) !are caracter obiectiv şi finit
+b) !este delimitată în spaţiu şi timp
+c) poate fi numai statică
+d) este formată din elemente neomogene
+e) !este delimitată din punct de vedere al volumului
+---------------------------------------------------------------------
+38. Selectaţi afirmaţiile corecte referitor la colectivitatea statistică generală:
+a) cuprinde numai o parte din elementele, care pot fi supuse studiului statistic
+b) !cuprinde totalitatea elementelor, care pot fi supuse studiului statistic
+c) are întotdeauna un volum nelimitat
+d) !volumul poate fi limitat de anumite caracteristici
+e) este destinată pentru caracterizarea eșantionului
+---------------------------------------------------------------------
+39. Selectaţi afirmaţiile corecte referitor la colectivitatea statistică parţială:
+a) !supune studiului o parte din elementele totalităţii generale
+b) supune studiului o parte din elementele eșantionului
+c) !este selectată prin metode speciale
+d) este destinată pentru caracterizarea eșantionului
+e) !este destinată pentru caracterizarea populației statistice
+---------------------------------------------------------------------
+40. Selectaţi afirmaţiile valabile pentru unitatea statistică:
+a) !este elementul component al colectivităţii statistice
+b) !poate fi simplă şi complexă
+c) !posedă caracteristici statistice
+d) este elementul component al variabilei statistice
+e) nu se înregistrează în studiul statistic
+---------------------------------------------------------------------
+41. Selectaţi particularităţile caracteristicii statistice:
+a) nu posedă variabilitate
+b) !este studiată în cadrul cercetării
+c) este prezentă numai la unele unități statistice
+d) !este prezentă la toate unitățile statistice
+e) !este variabilă la nivel individual
+---------------------------------------------------------------------
+42. Selectaţi tipurile variabilelor statistice în funcţie de modul de exprimare:
+a) de spaţiu
+b) !nominative
+c) factoriale
+d) rezultative
+e) !numerice
+---------------------------------------------------------------------
+43. Selectaţi particularităţile variabilelor nominative:
+a) sunt cantitative
+b) se exprimă prin unităţi de măsură
+c) !se exprimă prin atribute
+d) !sunt calitative
+e) se exprimă atât prin unităţi de măsură, cât şi prin atribute
+---------------------------------------------------------------------
+44. Selectaţi caracteristicile variabilelor cantitative:
+a) !se exprimă prin unităţi de măsură
+b) sunt nominative
+c) se exprimă prin atribute
+d) !sunt măsurabile
+e) !sunt variabile numerice
+---------------------------------------------------------------------
+45. Selectați activitățile specifice etapei de analiză statistică:
+a) culegerea datelor
+b) !fundamentarea deciziilor
+c) sistematizarea datelor
+d) !verificarea ipotezelor
+e) !prezentarea finală a rezultatelor
+---------------------------------------------------------------------
+46. Precizați caracteristicile factoriale:
+a) consecinţele bolii
+b) rezultatul tratamentului
+c) !doza medicamentului
+d) !vârsta
+e) !sexul
+---------------------------------------------------------------------
+47. Selectați afirmațiile corecte despre datele statistice:
+a) !sunt mărimi concrete
+b) sunt mărimi abstracte
+c) !sunt purtătoare de informaţii
+d) !pot fi primare sau derivate
+e) !pot fi absolute şi relative
+---------------------------------------------------------------------
+48. Selectați afirmațiile adevărate despre indicatorul statistic:
+a) !este rezultat al cercetării
+b) !are formă specifică de exprimare
+c) !are conţinut real
+d) !are formulă proprie de calcul
+e) are formă nespecifică de exprimare
+---------------------------------------------------------------------
+49. Selectați afirmațiile FALSE cu privire la indicatorul statistic:
+a) !este expresia numerică a evenimentului
+b) are formă specifică de exprimare
+c) !are funcţie de control
+d) !nu poate fi determinat în mod obiectiv
+e) !poate fi obţinut înaintea datelor statistice
+---------------------------------------------------------------------
+50. Selectaţi afirmaţiile corecte despre scala nominală:
+a) !se utilizează pentru reprezentarea variabilelor calitative
+b) permite determinarea medianei
+c) !permite determinarea dominantei
+d) !clasifică unitățile statistice în categorii distincte
+e) ordonează ierarhic unitățile statistice
+---------------------------------------------------------------------
+51. Selectaţi particularitățile scalei ordinale:
+a) !nu măsoară diferența dintre poziţiile succesive ale scalei
+b) măsoară diferența dintre poziţiile succesive ale scalei
+c) indicatorul cel mai util, în cazul tendinţei centrale, este dominanta
+d) !indicatorul cel mai util, în cazul tendinţei centrale, este mediana
+e) clasifică unitățile statistice în categorii distincte
+---------------------------------------------------------------------
+52. Selectaţi componentele capitolului „Inroducere” al unei lucrări științifice:
+a) !scopul și obiectivele lucrării
+b) criteriile de includere și excludere a participanților
+c) discutarea critică a rezultatelor
+d) descrierea exactă a loturilor de studii
+e) !importanța aplicativă a lucrării ---------------------------------------------------------------------
+53. Selectați afirmațiile corecte despre scala de interval:
+a) nu măsoară diferenţa dintre două numere ale scalei
+b) valoarea zero denotă absenţa completă a caracteristicii urmărite
+c) !valoarea zero nu denotă absenţa completă a caracteristicii urmărite
+d) !măsoară diferenţa dintre două numere ale scalei
+e) !nu permite multiplicarea sau divizarea valorilor
+---------------------------------------------------------------------
+54. Selectați afirmațiile corecte despre scala de raport:
+a) !valoarea zero indică absenţa completă a variabilei studiate
+b) !permite multiplicarea sau divizarea valorilor
+c) nu măsoară diferenţa dintre două numere ale scalei
+d) nu permite utilizarea tuturor metodelor statistice
+e) !permite utilizarea tuturor metodelor statistice
+---------------------------------------------------------------------
+55. Selectați tipurile observării statistice în funcţie de volum:
+a) periodică
+b) !totală
+c) curentă
+d) !selectivă
+e) special organizată
+---------------------------------------------------------------------
+56. Selectați tipurile observării statistice în funcţie de timp:
+a) selectivă
+b) !curentă
+c) !special organizată
+d) !periodică
+e) totală
+---------------------------------------------------------------------
+57. Precizați particularităţile cercetării periodice:
+a) !utilizată pentru fenomene cu variabilitate nepronunțată în timp
+b) utilizată pentru fenomene cu variabilitate pronunțată în timp
+c) aplicată în regim curent
+d) fixează data şi chiar ora de înregistrare a datelor
+e) !aplicată la anumite intervale de timp
+---------------------------------------------------------------------
+58. Selectaţi metodele de culegere a datelor:
+a) !recensământul
+b) !sondajele statistice
+c) !observarea părţii principale
+d) monografia totală
+e) monografia variaţională
+---------------------------------------------------------------------
+59. Indicați caracteristicile monografiei (metodă de culegere a datelor):
+a) este o metodă totală, permanentă
+b) !este o metodă parţială, aprofundată
+c) !este o metodă descriptivă
+d) este o metodă analitică
+e) !este o metodă inutilă pentru generalizarea rezultatelor
+---------------------------------------------------------------------
+60. Selectați afirmațiile corecte despre metoda de anchetă statistică:
+a) este o metodă de observare parţială, periodică
+b) !este o metodă de observare parţială, special organizată
+c) este o metodă de observare parţială, permanentă
+d) presupune reprezentativitatea eşantioanelor
+e) !nu presupune reprezentativitatea eşantioanelor
+---------------------------------------------------------------------
+61. Selectați ce este caracteristic pentru erorile sistematice de înregistrare:
+a) au incidenţă sporită
+b) !au incidenţă redusă
+c) sunt rezultat al neatenției operatorului
+d) !sunt rezulatat al neînţelegerii scopului observării
+e) !sunt prevenite prin instruirea personalului
+---------------------------------------------------------------------
+62. Precizați particularităţile erorilor întâmplătoare de înregistrare:
+a) !nu influenţează vădit acurateţea rezultatelor
+b) !au incidenţă sporită
+c) influenţează vădit acurateţea rezultatelor
+d) !sunt rezultat al neatenției operatorului
+e) provin din necunoaşterea unor noţiuni
+---------------------------------------------------------------------
+63. Selectați ce include controlul cantitativ al datelor:
+a) !verificarea completitudinii datelor
+b) verificarea naturii calitative a datelor
+c) !verificarea volumului de date
+d) !verificarea primirii tuturor formularelor
+e) verificarea logică a datelor
+---------------------------------------------------------------------
+64. Selectați afirmaţiile corecte despre rezultatele cercetării ştiinţifice:
+a) nu pot fi testate
+b) sunt „dogmatice"
+c) !sunt documentate minuţios
+d) !pot fi confirmate sau infirmate
+e) !pot fi verificate
+---------------------------------------------------------------------
+65. Selectați caracteristicile unui experiment ştiinţific:
+a) subiectivitatea
+b) !fidelitatea
+c) !obiectivitatea
+d) !validitatea
+e) incomparabilitatea
+---------------------------------------------------------------------
+66. Indicați tipurile de cercetare ştiinţifică:
+a) imperativă
+b) !aplicativă
+c) interactivă
+d) !fundamentală
+e) !pentru dezvoltare
+---------------------------------------------------------------------
+67. Selectați calitățile unui studiu clinic bun:
+a) !fezabil
+b) !interesant
+c) nerelevant
+d) !etic
+e) !nou
+---------------------------------------------------------------------
+68. Precizați ce include etapa de pregătire a studiului:
+a) !formularea temei studiului
+b) colectarea datelor statistice
+c) !definirea scopului studiului
+d) !formularea obiectivelor
+e) sistematizarea datelor statistice
+---------------------------------------------------------------------
+69. Selectați calitățile metodelor de măsurare şi clasificare din cadrul studiului ştiinţific:
+a) nestandardizabile
+b) !clare
+c) !obiective
+d) !reproductibile
+e) !adaptabile problemei cercetate
+---------------------------------------------------------------------
+70. Precizați ce include etapa de stabilire a planului studiului ştiinţific:
+a) !alegerea tipului studiului
+b) culegerea datelor
+c) !stabilirea populaţiei ţintă
+d) gruparea variabilelor de interes
+e) !alegerea eşantionului studiului
+---------------------------------------------------------------------
+71. Precizați ce se include în etapa de definire a eşantionului:
+a) !alegerea tipului de eşantion
+b) !alegerea modului de eşantionare
+c) stabilirea scalelor de măsură pentru unităţile cercetate
+d) definirea tipului de culegere a indicatorilor
+e) !definirea variabilelor
+---------------------------------------------------------------------
+72. Selectați întrebările la care oferă răspuns etapa de analiză a rezultatelor primare:
+a) !procedeele statistice aplicate sunt adecvate?
+b) ipoteza se confirmă sau se respinge?
+c) a fost suficientă analiza numerică?
+d) !datele cu care se lucrează sunt corecte?
+e) care este semnificaţia rezultatelor?
+---------------------------------------------------------------------
+73. Selectați întrebările la care oferă răspuns etapa de analiză a rezultatelor finale:
+a) !ipoteza se confirmă sau se respinge?
+b) !care este semnificaţia rezultatelor?
+c) !a fost suficientă analiza numerică?
+d) procedeele statistice aplicate sunt adecvate?
+e) datele cu care se lucrează sunt corecte?
+---------------------------------------------------------------------
+74. Selectaţi lacunele frecvente în prezentarea unei lucrări:
+a) definirea clară a criteriilor de includere şi excludere din studiu
+b) !neidentificarea populaţiei ţintă
+c) descrierea riguroasă a tehnicilor de măsurare
+d) !analiza insuficientă a datelor aberante
+e) !prezentarea excesivă a datelor brute
+---------------------------------------------------------------------
+75. Selectaţi cerințele privind stilul redactării studiului:
+a) timp prezent pentru redarea metodei și rezultatelor
+b) !timp trecut pentru redarea metodei și rezultatelor
+c) !timp prezent pentru noțiuni bine cunoscute
+d) timp trecut pentru noțiuni bine cunoscute
+e) persoana 1 singular
+---------------------------------------------------------------------
+76. Selectaţi componentele capitolului „Material și metode” al unei lucrări științifice:
+a) importanța teoretică a lucrării
+b) !criteriile de includere și excludere a participanților
+c) discutarea critică a rezultatelor
+d) !descrierea exactă a loturilor de studii
+e) !descrierea testelor statistice utilizate
+---------------------------------------------------------------------
+77. Selectaţi tipurile cercetării în funcție de durata culegerii datelor:
+a) !transversală
+b) exhaustivă
+c) prin eșantionare
+d) !longitudinală
+e) descriptivă
+---------------------------------------------------------------------
+78. Selectaţi dezavantajul întrebărilor închise, în cadrul chestionarului:
+a) neuniformitatea
+b) dificultatea administrării
+c) analiza îndelungată
+d) !sugestibilitatea răspunsurilor
+e) analiza statistică îngreuiată
+---------------------------------------------------------------------
+79. Selectaţi avantajul întrebărilor deschise, în cadrul chestionarului:
+a) sugestibilitatea răspunsurilor
+b) !libertatea exprimării individualizate
+c) uşurarea prelucrării statistice a răspunsurilor
+d) indispensabilitatea pentru cercetările medicale
+e) posibilitatea de a devia de la subiectul în cauză
+---------------------------------------------------------------------
+80. Selectaţi avantajul întrebărilor deschise, în cadrul chestionarului:
+a) !permit cunoaşterea particularităţilor populaţiei ţintă
+b) permit cuantificarea răspunsurilor cu ajutorul unei scale
+c) sunt preferate în cercetările medicale
+d) permit culegerea datelor cu riscul sugestibilităţii
+e) permit alegerea răspunsurilor dinainte fixate
+---------------------------------------------------------------------
+81. Precizați rolul întrebărilor introductive din chestionar:
+a) marchează apariţia unei noi grupe de întrebări
+b) asigură controlul calităţii răspunsului
+c) !oferă anchetatului sentimentul de încredere
+d) provoacă explicaţii în raport cu diferite opinii exprimate
+e) separă sensurile "pro" şi "contra" din răspunsurile persoanelor anchetate
+---------------------------------------------------------------------
+82. Indicați rolul întrebărilor de trecere din chestionar:
+a) separă sensurile "pro" şi "contra" din răspunsurile persoanelor anchetate
+b) asigură controlul fidelităţii opiniei exprimate
+c) oferă respondentului sentimentul de încredere
+d) provoacă explicaţii în raport cu diferite opinii exprimate
+e) !marchează apariţia unei noi grupe de întrebări
+---------------------------------------------------------------------
+83. Selectați condiția care trebuie respectată de un chestionar statistic:
+a) să evite întrebările concise şi la subiect
+b) să conţină preponderent întrebări, care fac apel la memoria celor chestionaţi
+c) să conţină întrebări, care sugereze răspunsurile
+d) !să corespundă cu nivelul de cunoştinţe ale respondentului
+e) să pună accentul pe limbajul profesional
+---------------------------------------------------------------------
+84. Selectați regulile de întocmire a chestionarului:
+a) !evitarea jargonului profesional sau prescurtărilor
+b) !evitarea întrebările tendenţioase
+c) utilizarea unui vocabular neînţeles de respondenţi
+d) afectarea prestigiului sau orgoliului respondentului
+e) evitarea succesiunii logice a întrebărilor
+---------------------------------------------------------------------
+85. Selectați tipurile de chestionare din punct de vedere al calităţii informaţiilor:
+a) !de date factuale
+b) "omnibus"
+c) !de opinie
+d) speciale
+e) autoadministrate
+---------------------------------------------------------------------
+86. Selectați tipurile de chestionare din punct de vedere al cantităţii informaţiilor:
+a) autoadministrate
+b) !speciale
+c) !"omnibus"
+d) de date factuale
+e) de opinie
+---------------------------------------------------------------------
+87. Selectați tipurile de chestionare în funcţie de conţinut:
+a) !cu referire la date calitative
+b) !cu referire la date cantitative
+c) administrate prin telefon
+d) autoadministrate
+e) administrate de către operatori de anchetă
+---------------------------------------------------------------------
+88. Selectați tipurile de chestionare în funcţie de modul de aplicare:
+a) cu întrebări deschise
+b) !administrate prin telefon
+c) !autoadministrate
+d) !administrate de către operatori de anchetă
+e) cu întrebări închise
+---------------------------------------------------------------------
+89. Selectaţi avantajele întrebărilor închise, în cadrul chestionarului:
+a) !sunt uşor de administrat
+b) oferă libertatea exprimării
+c) !sunt uniforme
+d) !uşurează analiza statistică a răspunsurilor
+e) sugerează răspunsurile
+---------------------------------------------------------------------
+90. Selectaţi avantajele întrebărilor închise, în cadrul chestionarului:
+a) !sprijină memoria celui anchetat
+b) !sporesc anonimatul celui anchetat
+c) scad securitatea celui anchetat
+d) !sunt preferate în cercetările medicale
+e) permit respondentului să devieze de la subiectul în cauză
+---------------------------------------------------------------------
+91. Selectaţi funcţiile întrebărilor filtru din chestionar:
+a) !opresc trecerea unor categorii de subiecţi la întrebările succesive
+b) verifică fidelitatea opiniei exprimate
+c) !asigură controlul calităţii răspunsului
+d) servesc la analiza răspunsurilor din chestionar
+e) nu opresc persoana de a urma succesiunea întrebărilor
+---------------------------------------------------------------------
+92. Selectaţi particularităţile întrebărilor bifurcate din chestionar:
+a) asigură controlul calităţii răspunsului
+b) opresc persoana de a urma succesiunea întrebărilor
+c) !separă sensurile "pro" şi "contra" din răspunsurile persoanelor anchetate
+d) !nu califică răspunsurile oferite
+e) !nu opresc persoana de a urma succesiunea întrebărilor
+---------------------------------------------------------------------
+93. Selectaţi particularităţile întrebărilor "de ce?" din chestionar:
+a) !sunt un exemplu de întrebări imprecise
+b) !au valoare informativă scăzută
+c) oferă valoare în plus chestionarului
+d) sunt un exemplu de întrebări precise
+e) !provoacă explicaţii în raport cu diferite opinii exprimate
+---------------------------------------------------------------------
+94. Selectaţi caracteristicile întrebărilor de control din chestionar:
+a) !nu aduc informaţii noi
+b) !verifică consistenţa opiniei exprimate
+c) !verifică gradul de înțelegere a sensului întrebărilor
+d) aduc informaţii noi
+e) nu verifică fidelitatea răspunsurilor oferite
+---------------------------------------------------------------------
+95. Selectați condițiile necesare de respectat în formularea întrebărilor din chestionar:
+a) !evitarea negaţiilor
+b) dificultatea sporită a întrebărilor
+c) !formularea întrebărilor la modul general
+d) !preferabilitatea întrebărilor indirecte
+e) abstractizarea întrebărilor independentă de nivelul de studii al respondenţilor
+---------------------------------------------------------------------
+96. Precizați caracteristica unui eșantion reprezentativ:
+a) are volum mic
+b) !reproduce în structura sa structura colectivităţii generale
+c) este sursă unei erori de reprezentativitate mare
+d) este format în mod aleatoriu simplu
+e) este format în mod aleatoriu dirijat
+---------------------------------------------------------------------
+97. Precizați tipul de selecție în cazul excluderii oricărei intervenţii subiective în alegerea
+eşantionului:
+a) dirijată
+b) mixtă
+c) !aleatoare
+d) mecanică
+e) parţială ---------------------------------------------------------------------
+98. Selectați condiția care determină reprezentativitatea eşantionului:
+a) extragerea dirijată a unităţilor statistice
+b) volumul eşantionului
+c) !extragerea aleatoare a unităţilor statistice
+d) numărul unităţilor statistice
+e) extragerea simetrică a unităţilor statistice
+---------------------------------------------------------------------
+99. Precizați tipul de selecție în cazul intervenţiei subiective în alegerea eşantionului:
+a) aleatoare
+b) !dirijată
+c) variaţională
+d) mixtă
+e) inferenţială ---------------------------------------------------------------------
+100. Selectaţi particularitatea eşantionului format aleator cu revenire:
+a) volumul colectivităţii generale scade consecutiv pe măsura creşterii numărului
+extragerilor
+b) !volumul colectivităţii generale rămâne constant pe toată perioada extragerii
+c) la fiecare extragere, orice unitate a colectivităţii generale are probabilitate diferită de
+a fi selecţionată
+d) la sfârşitul extragerilor volumul colectivităţii generale este micşorat exact cu
+volumul eşantionului
+e) aceeaşi unitate statistică nu poate fi inclusă de mai multe ori în colectivitatea selectivă
+---------------------------------------------------------------------
+101. Selectaţi particularitatea eşantionului format aleator fără revenire:
+a) !volumul colectivităţii generale scade consecutiv pe măsura creşterii numărului
+extragerilor
+b) volumul colectivităţii generale rămâne constant pe toată perioada extragerii
+c) la fiecare extragere, orice unitate a colectivităţii generale are aceeaşi probabilitate de
+a fi selecţionată
+d) la sfârşitul extragerilor volumul colectivităţii generale nu se modifică
+e) probabilitatea erorilor de selecţie este mai mare decât în cazul procedeului fără revenire
+---------------------------------------------------------------------
+102. Indicați particularitatea procedeului mecanic de selecţie:
+a) extragerea unităţilor statistice se face aleator
+b) asigură în totalitate caracterul aleator al selecţiei
+c) prima unitate, de la care se începe numărarea, nu se include în pasul de numărare
+d) extragerea unităţilor statistice nu este dirijată
+e) !extragerea unităţilor se face conform pasului de numărare prestabilit
+---------------------------------------------------------------------
+103. Selectați volumul eșantionului care generează o eroare întâmplătoare de reprezentativitate
+mică:
+a) insuficient
+b) mic
+c) !suficient
+d) relativ mare
+e) relativ mic
+---------------------------------------------------------------------
+104. Selectaţi strategia de selecţie pentru sondajul aleator simplu:
+a) fiecare membru al populaţiei este menţionat pe o listă; se extrage un număr de pornire
+aleator şi apoi indivizii populaţiei sunt selectaţi la intervale egale
+b) !fiecare membru al populaţiei are o probabilitate egală de a fi selectat
+c) fiecare membru al populaţiei este alocat unui strat, apoi un eşantion aleator este selectat
+din fiecare strat
+d) fiecare membru al populaţiei este alocat unui grup, apoi toţi membrii grupului selectat
+sunt incluşi în eşantion
+e) este selectat un eşantion de clastere, apoi membrii eşantionului sunt selectaţi aleator din aceste
+clastere
+---------------------------------------------------------------------
+105. Selectaţi strategia de selecţie pentru sondajul mecanic:
+a) !fiecare membru al populaţiei este menţionat pe o listă; se extrage un număr de
+pornire aleator şi apoi indivizii populaţiei sunt selectaţi la intervale egale
+b) fiecare membru al populaţiei are o probabilitate egală de a fi selectat
+c) este selectat un eşantion de clastere, apoi membrii eşantionului sunt selectaţi aleator din
+aceste clastere
+d) fiecare membru al populaţiei este alocat unui grup, apoi toţi membrii grupului selectat
+sunt incluşi în eşantion
+e) fiecare membru al populaţiei este alocat unui strat, apoi un eşantion aleator este selectat din
+fiecare strat
+---------------------------------------------------------------------
+106. Selectaţi strategia de selecţie pentru sondajul stratificat:
+a) fiecare membru al populaţiei este alocat unui grup, apoi toţi membrii grupului selectat
+sunt incluşi în eşantion
+b) este selectat un eşantion de clastere, apoi membrii eşantionului sunt selectaţi aleator din
+aceste clastere
+c) fiecare membru al populaţiei este menţionat pe o listă; se extrage un număr de pornire
+aleator şi apoi indivizii populaţiei sunt selectaţi la intervale egale
+d) !fiecare membru al populaţiei este alocat unui strat, apoi un eşantion aleator este
+selectat din fiecare strat
+e) fiecare membru al populaţiei are o probabilitate egală de a fi selectat
+---------------------------------------------------------------------
+107. Selectaţi strategia de selecţie pentru sondajul în serii:
+a) fiecare membru al populaţiei este alocat unui strat, apoi un eşantion aleator este selectat
+din fiecare strat
+b) !fiecare membru al populaţiei este alocat unui grup, apoi toţi membrii grupului
+selectat sunt incluşi în eşantion
+c) este selectat un eşantion de clastere, apoi membrii eşantionului sunt selectaţi aleator din
+aceste clastere
+d) fiecare membru al populaţiei este menţionat pe o listă; se extrage un număr de pornire
+aleator şi apoi indivizii populaţiei sunt selectaţi la intervale egale
+e) fiecare membru al populaţiei are o probabilitate egală de a fi selectat
+---------------------------------------------------------------------
+108. Selectați scopurile sondajului statistic:
+a) !estimarea parametrilor colectivităţii generale în baza rezultatelor de eșantion
+b) estimarea parametrilor de eșantion în baza rezultatelor cercetării generale
+c) estimarea parametrilor colectivităţii generale în baza rezultatelor cercetării generale
+d) extinderea indicatorilor totalităţii generale asupra eşantionului
+e) !extinderea indicatorilor de eşantion asupra totalităţii generale
+---------------------------------------------------------------------
+109. Precizați activitățile specifice primei etape a cercetării selective:
+a) !colectarea datelor statistice
+b) !prelucrarea datelor statistice
+c) estimarea parametrilor generali
+d) extinderea indicatorilor de eşantion asupra totalităţii generale
+e) !obţinerea indicatorilor derivaţi
+---------------------------------------------------------------------
+110. Selectaţi avantajele cercetării selective:
+a) mai operativă și mai scumpă decât observarea generală
+b) !erori de înregistrare mai puține şi mai uşor de înlăturat
+c) erori de înregistrare mai puţine și mai greu de înlăturat
+d) !caracterizarea mai aprofundată a fenomenului investigat
+e) !mai operativă şi mai ieftină decât observarea generală
+---------------------------------------------------------------------
+111. Precizați caracteristicile de bază ale eşantionului:
+a) variabilitatea
+b) !reprezentativitatea
+c) neomogenitatea
+d) !precizia
+e) simetricitatea
+---------------------------------------------------------------------
+112. Selectați condiţiile care trebuie respectate pentru asigurarea reprezentativităţii eşantionului:
+a) !extragerea obiectivă a unităţilor statistice
+b) extragerea preferenţială a unităţilor statistice
+c) extragerea neprobabilistică a unităţilor statistice
+d) !omogenitatea colectivităţii generale
+e) !independenţa includerii unităţii statistice în eşantion
+---------------------------------------------------------------------
+113. Selectați cauzele formării unui eșantion nereprezentativ:
+a) !extragerea subiectivă a unităţilor statistice
+b) !extragerea preferenţială a unităţilor statistice
+c) !extragerea neprobabilistică a unităţilor statistice
+d) asigurarea omogenităţii colectivităţii generale
+e) independenţa includerii unităţii statistice în eşantion
+---------------------------------------------------------------------
+114. Precizați ce include planul cercetării prin sondaj:
+a) !delimitarea în timp şi spaţiu a totalităţii generale
+b) !verificarea gradului de omogenitate al colectivităţii generale
+c) verificarea gradului de omogenitate a colectivităţii selective
+d) !determinarea volumului eşantionului
+e) asigurarea selecţiei neprobabilistice a unităţilor statistice
+---------------------------------------------------------------------
+115. Indicați ce include planul cercetării prin sondaj:
+a) elaborarea criteriilor de selecţie neprobabilistică
+b) !stabilirea periodicităţii efectuării sondajului
+c) !stabilirea bazei de sondaj
+d) stabilirea preferinţelor de selecţie a unităţilor statistice
+e) !alegerea tipului şi procedeului de selecţie
+---------------------------------------------------------------------
+116. Alegeți tipurile de selecție a unităţilor statistice:
+a) secvenţională
+b) !aleatoare
+c) intervenţională
+d) !dirijată
+e) !mixtă ---------------------------------------------------------------------
+117. Indicați procedeele de selecţie:
+a) !mecanic
+b) !tragere la sorţi
+c) !tabel cu numere aleatoare
+d) tabel cu numere selectate
+e) tragere mecanică la sorţi
+---------------------------------------------------------------------
+118. Selectaţi particularităţile eşantionării aleatoare cu revenire:
+a) !volumul colectivităţii generale rămâne neschimbat pe toată perioada extragerii
+b) !probabilitatea erorilor de selecţie este mai mare decât în cazul procedeului fără
+revenire
+c) !aceeaşi unitate statistică poate fi inclusă de mai multe ori în colectivitatea selectivă
+d) !la fiecare extragere, orice unitate a colectivităţii generale are aceeaşi
+probabilitate de a fi selecţionată
+e) volumul colectivităţii generale scade consecutiv pe măsura creşterii numărului
+extragerilor
+---------------------------------------------------------------------
+119. Selectaţi afirmațiile corecte despre procedeului mecanic de selecţie:
+a) !presupune extragerea unităţilor statistice după un interval predeterminat
+b) pasul de numărare se stabileşte ca raport între volumul colectivităţii selective şi celei
+generale
+c) !pasul de numărare se stabileşte ca raport între volumul colectivităţii generale şi celei
+selective
+d) !nu asigură în totalitate caracterul aleator al selecţiei
+e) nu încalcă principiile selecţiei aleatoare
+---------------------------------------------------------------------
+120. Selectați principalele tipuri de erori ale cercetării prin sondaj:
+a) sistematice de înregistrare
+b) !sistematice de reprezentativitate
+c) !întâmplătoare de reprezentativitate
+d) intenţionate de neînregistrare
+e) !de înregistrare
+---------------------------------------------------------------------
+121. Precizați cauzele erorilor sistematice de reprezentativitate:
+a) selectarea aleatoare a unităţilor statistice
+b) !selectarea preferenţială a unităţilor statistice
+c) !cuprinderea incompletă în sondaj a unităţilor, din motive de comoditate
+d) selectarea obiectivă a unităţilor statistice
+e) !selectarea deliberată a unităţilor statistice
+---------------------------------------------------------------------
+122. Precizați cauzele erorilor sistematice de reprezentativitate:
+a) !substituirea unei unităţi statistice cu alta asemănătoare
+b) selectarea întâmplătoare a unităţilor statistice
+c) !alegerea la "nimereală" a unităţilor statistice
+d) !nonrăspunsul
+e) selectarea obiectivă a unităţilor statistice
+---------------------------------------------------------------------
+123. Selectați factorii care influențează precizia de estimare a parametrilor populației statistice:
+a) !eroarea reprezentativităţii
+b) !dispersia
+c) !intervalul valoric în care se află eroarea maximă admisă
+d) intervalul valoric în care se află eroarea minimă admisă
+e) !volumul eşantionului
+---------------------------------------------------------------------
+124. Selectați componentele necesare pentru stabilirea volumului eşantionului prin selecţie repetată
+pentru variabile cantitative:
+a) !eroarea limită
+b) !coeficientul de exactitate
+c) probabilitatea apariţiei evenimentului
+d) probabilitatea lipsei evenimentului
+e) !abaterea medie pătratică
+---------------------------------------------------------------------
+125. Selectați componentele necesare pentru stabilirea volumului eşantionului prin selecţie repetată
+pentru variabile calitative:
+a) !probabilitatea apariţiei evenimentului
+b) abaterea medie pătratică
+c) !eroarea limită
+d) !coeficientul de exactitate
+e) !probabilitatea lipsei evenimentului
+---------------------------------------------------------------------
+126. Indicați tipurile de grafice:
+a) cartodiagrame
+b) diagrame
+c) !cu coordonate rectangulare
+d) !cu coordonate polare
+e) !speciale
+---------------------------------------------------------------------
+127. Selectați tipurile de diagrame:
+a) cu structură terţiară
+b) !de proporţii
+c) !cu coordonate geografice
+d) cu coordonate bipolare
+e) !bazate pe lungimi
+---------------------------------------------------------------------
+128. Selectati diagramele bazate pe lungimi.
+a) !diagrama cu bare
+b) diagrama de structură în dreptunghi
+c) diagrama de structură în cerc
+d) !pictograma
+e) cartograma
+---------------------------------------------------------------------
+129. Selectați tipurile reprezentărilor grafice utilizate pentru reprezentarea ratelor:
+a) !graficele cu coordonate rectangulare
+b) !diagramele cu coordonate geografice
+c) !diagramele cu bare
+d) diagramele de proporţii
+e) !diagramele cu benzi
+---------------------------------------------------------------------
+130. Selectați reprezentările grafice corecte ale indicatorului de proporţie:
+a) !diagrama de structură în cerc
+b) cartograma
+c) diagrama de structură radială
+d) diagrama Scatter
+e) !diagrama de structură în dreptunghi
+---------------------------------------------------------------------
+131. Selectaţi cazurile de utilizare a graficului cu coordonate rectangulare:
+a) !incidența bolilor aparatului respirator
+b) distribuția mortalității infantile pe cauze de deces
+c) structura mortalității generale
+d) ponderea bolilor aparatului circulator
+e) !evoluția prevalenței fumatului în populație
+---------------------------------------------------------------------
+132. Indicați cazul de utilizare a diagramei de structură în cerc:
+a) rata bolii în populație
+b) !distribuția populației pe vârste
+c) numărul total de bolnavi spitalizați
+d) asigurarea populaţiei cu medici
+e) nivelul asigurarii populației cu paturi
+---------------------------------------------------------------------
+133. Selectați reprezentarea grafică corectă pentru dinamica asigurării populației cu personal
+medical:
+a) diagrama radială
+b) !diagrama lineară
+c) diagrama Scatter
+d) diagrama polară
+e) diagrama sectorială
+---------------------------------------------------------------------
+134. Selectați cazul corect de utilizare a diagramei radiale:
+a) rata mortalităţii generale
+b) !numărul accidentelor rutiere în 24 de ore
+c) numărul de persoane intervievate
+d) proporția accidentelor rutiere în 24 de ore
+e) distribuția bolilor în populație
+---------------------------------------------------------------------
+135. Selectati afirmatiile corecte privitor la etapele de construire a diagramei de structură în cerc:
+a) !raza cercului este o valoare spontană
+b) raza cercului este o valoare medie
+c) raza cercului este o valoare medie ponderată
+d) !valoarea indicatorului, în procente, se transferă în grade
+e) valoarea indicatorului, în grade, se transferă în procente
+---------------------------------------------------------------------
+136. Precizați afirmațiile corecte referitor la construirea diagramei radiale:
+a) raza cercului este o valoare spontană
+b) !raza cercului este o valoare medie
+c) raza cercului este o valoare absolută
+d) !cercul se împarte într-un numar anumit de perioade
+e) cercul se împarte într-un număr arbitrar de perioade
+---------------------------------------------------------------------
+137. Selectaţi afirmațiile corecte referitor la utilitatea practică a reprezentărilor grafice:
+a) reprezintă structura corelației dintre factorii de risc
+b) !reprezintă structura fenomenului investigat
+c) !reprezintă dinamica şi legităţile fenomenului
+d) !reprezintă gradul de răspândire a fenomenului
+e) măsoară gradul de influenţă a factorilor asupra fenomenului
+---------------------------------------------------------------------
+138. Precizați componentele de bază ale graficului:
+a) !suprafaţa de reprezentare
+b) !suprafaţa graficului
+c) !aria graficului
+d) argumentarea necesității graficului
+e) soft-ul graficului
+---------------------------------------------------------------------
+139. Selectați elementele componente ale suprafeței de reprezentare a graficului:
+a) eticheta reţelei de axe
+b) !titlul sau denumirea graficului
+c) !valorile intervalelor scalei
+d) !legenda graficului
+e) scala haşurilor aplicate
+---------------------------------------------------------------------
+140. Selectați tipurile de serii cronologice:
+a) !simple
+b) !compuse
+c) conjugate
+d) univariate
+e) independente
+---------------------------------------------------------------------
+141. Precizați tipurile de serii dinamice:
+a) !de intervale
+b) de corelație
+c) combinate
+d) de covariație
+e) !de momente
+---------------------------------------------------------------------
+142. Indicați metodele de ajustare a seriei cronologice:
+a) !majorarea intervalului
+b) calcularea mediei ponderate
+c) calcularea mediei momentelor
+d) !calcularea mediei de grup
+e) !calcularea mediei glisante
+---------------------------------------------------------------------
+143. Selectați particularitatea de evoluție a fenomenului, care impune efectuarea ajustării
+seriei cronologice:
+a) creşterea evidentă
+b) descreşterea evidentă
+c) !oscilarea evidentă
+d) staționarea evidentă
+e) corelarea evidentă
+---------------------------------------------------------------------
+144. Precizați caracteristica mediei de grup în seria cronologică:
+a) este suma a două niveluri vecine
+b) !este semisuma a două niveluri vecine
+c) este valoarea medie, obţinută din nivelul dat şi două niveluri vecine
+d) este semisuma a trei niveluri vecine
+e) este diferenţa dintre două niveluri vecine
+---------------------------------------------------------------------
+145. Selectați un indicator de analiză a seriei cronologice:
+a) valoarea medie a unui procent de spor
+b) !valoarea absolută a unui procent de spor
+c) valoarea relativă a unui procent de spor
+d) valoarea absolută a unui procent de creştere
+e) valoarea absolută a sporului
+---------------------------------------------------------------------
+146. Selectați tipurile de mărimi, care pot forma o serie cronologică:
+a) !absolute
+b) corelative
+c) !relative
+d) selective
+e) !medii
+---------------------------------------------------------------------
+147. Selectați afirmația corectă despre modul de calcul al ritmului de creştere în seria
+cronologică:
+a) raport procentual al ritmului sporului la nivelul precedent
+b) !raport procentual al nivelului următor la cel precedent
+c) raport procentual al nivelului precedent la cel următor
+d) raport procentual al sporului absolut la nivelul precedent
+e) raport simplu al nivelulului următor la nivelul precedent
+---------------------------------------------------------------------
+148. Precizați modul corect de calcul al sporului absolut în seria cronologică:
+a) raportul nivelului următor la cel precedent
+b) !diferența dintre nivelul următor şi nivelul precedent
+c) diferenţa dintre nivelul precedent şi nivelul următor
+d) suma nivelurilor următor şi precedent
+e) semisuma nivelurilor următor şi precedent
+---------------------------------------------------------------------
+149. Indicați tipurile de marimi, care pot reprezenta nivelurile unei serii cronologice:
+a) !relative de tip rată
+b) relative de tip proporție
+c) relative de tip medie
+d) relative absolute
+e) !relative de tip raport
+---------------------------------------------------------------------
+150. Precizați modul de obținere a valorii absolute a unui procent de spor în seria cronologică:
+a) raportul simplu al nivelului următor la cel precedent
+b) raportul procentual al nivelului următor la cel precedent
+c) !raportul simplu al sporului absolut la ritmul sporului
+d) raportul procentual al sporului absolut la ritmul sporului
+e) raportul procentual al sporului absolut la nivelul precedent
+---------------------------------------------------------------------
+151. Selectați modul corect de calcul al ritmului de spor în seria cronologică:
+a) raportul nivelului următor la cel precedent
+b) raportul procentual al sporului absolut la ritmul sporului
+c) !raportul procentual al sporului absolut la nivelul precedent
+d) raportul procentual al nivelului următor la cel precedent
+e) suma nivelurilor următor şi precedent
+---------------------------------------------------------------------
+152. Precizați denumirea corectă a unei valori numerice individuale din seria cronologică:
+a) variantă
+b) !nivel
+c) treaptă
+d) unitate
+e) frecvență ---------------------------------------------------------------------
+153. Selectaţi definiţia corectă a seriei cronologice:
+a) şir de valori numerice omogene, comparabile ale unui fenomen, ordonate crescător
+b) şir de valori numerice omogene, comparabile ale unui fenomen, care caracterizează
+schimbarea lui în volum
+c) !şir de valori numerice omogene, comparabile ale unui fenomen, care caracterizează
+schimbarea lui în timp
+d) şir de valori numerice omogene, comparabile ale unui fenomen, care caracterizează
+schimbarea lui în spaţiu
+e) şir de valori numerice omogene, comparabile ale unui fenomen, ordonate descrescător
+---------------------------------------------------------------------
+154. Selectați proprietățile termenilor seriei cronologice:
+a) !variabilitatea
+b) !omogenitatea
+c) !periodicitatea
+d) independența
+e) !interdependența
+---------------------------------------------------------------------
+155. Selectați caracteristica ritmului de creştere în seria cronologică:
+a) !arată de cât la sută sau de câte ori s-a modificat mărimea fenomenului în timp
+b) arată de cât la sută sau de câte ori, în mediu, s-a modificat mărimea fenomenului în timp
+c) arată cu cât la sută s-a modificat mărimea fenomenului în timp
+d) arată cu cât la suta, în mediu, s-a modificat mărimea fenomenului în timp
+e) arată cum s-au modificat valorile individuale în unităţi concrete de măsură
+---------------------------------------------------------------------
+156. Selectați afirmațiile corecte despre seria cronologică:
+a) este formată din valori numerice ale unui eveniment, care caracterizează schimbarea lui în
+timp
+b) !vizează măsurarea creşterilor sau descreşterilor de nivel în evoluţia unui fenomen
+c) vizează măsurarea creşterilor sau descreşterilor de structură în evoluţia unui fenomen
+d) !este formată din mărimi absolute, relative şi medii
+e) este formată din valori nenumerice ale unui fenomen, care caracterizează schimbarea lui în
+timp
+---------------------------------------------------------------------
+157. Selectați afirmațiile corecte referitor la seria cronologică de momente:
+a) fiecare valoare individuală caracterizează nivelul la care a ajuns fenomenul analizat într-un
+interval dat
+b) !fiecare valoare individuală caracterizează nivelul la care a ajuns fenomenul analizat într-un
+moment dat
+c) este formată din mărimi ce caracterizează fenomenul într-un interval de timp
+d) !este formată din mărimi ce caracterizează fenomenul în anumite momente de timp
+e) !nu permite cumularea valorilor termenilor
+---------------------------------------------------------------------
+158. Selectați afirmațiile corecte referitor la seria cronologică de intervale:
+a) nu permite cumularea valorilor termenilor !!
+b) !fiecare valoare individuală reprezintă rezultatul unui proces care se desfăşoară într-un
+interval de timp
+c) fiecare valoare individuală reprezintă rezultatul unui proces într-un moment de timp
+d) !permite cumularea valorilor termenilor
+e) este formată din mărimi individuale independente
+---------------------------------------------------------------------
+159. Selectaţi metodele de standardizare:
+a) !directă
+b) !indirectă
+c) !tangenţială
+d) proporţională
+e) parametrică
+---------------------------------------------------------------------
+160. Precizați domeniul de utilizare a metodei directe de standardizare:
+a) determinarea caracterului legăturii dintre două fenomene studiate
+b) !compararea indicatorilor intensivi în scopul eliminării influenţei asupra lor a
+factorilor ce determină neomogenitatea totalităţilor comparate
+c) compararea indicatorilor intensivi în scopul masurării semnificației diferenţei dintre
+două totalităţi comparate
+d) determinarea puterii legăturii dintre două fenomene studiate
+e) compararea indicatorilor intensivi în scopul evidențierii influenţei asupra lor a factorilor ce
+condiționează omogenitatea totalităţilor
+comparate
+---------------------------------------------------------------------
+161. Precizați ce poate fi standard în utilizarea metodei directe de standardizare:
+a) indicatorii intensivi generali
+b) indicatorii intensivi speciali
+c) !componenţa unei totalităţi
+d) media aritmetică a unei totalităţi
+e) indicatorii generali de raport
+---------------------------------------------------------------------
+162. Precizați ce include prima etapă a standardizării directe:
+a) calculul indicatorilor absoluți
+b) !calculul indicatorilor intensivi
+c) calculul indicatorilor standardizaţi
+d) calculul standardului
+e) calculul indicatorilor medii
+---------------------------------------------------------------------
+163. Indicați particularitatea etapei a doua a metodei directe de standardizare:
+a) alegerea și calculul indicatorilor intensivi speciali
+b) !alegerea şi calculul standardului
+c) alegerea și calculul indicatorilor standardizaţi
+d) calculul „valorilor aşteptate" pentru fiecare grupă de standard
+e) calculul „valorilor aşteptate" numai pentru o grupă de standard
+---------------------------------------------------------------------
+164. Selectati afirmatia corecta despre indicatorii standardizati:
+a) sunt indicatori de semnificație
+b) !sunt indicatori convenţionali
+c) sunt indicatori de veridicitate
+d) sunt indicatori de variabilitate
+e) sunt indicatori veridici
+---------------------------------------------------------------------
+165. Selectați varianta corectă a concluziei în cazul lipsei diferenței dintre mărimea
+indicatorilor standardizaţi și a celor intensivi (A < B; A < B):
+a) !factorul eliminat nu influenţează mărimea indicatorului intensiv
+b) factorul eliminat influenţează mărimea indicatorului intensiv
+c) factorul eliminat influenţează mărimea indicatorului intensiv în direcţia creşterii
+d) factorul eliminat influenţează mărimea indicatorului intensiv în direcţia descreşterii
+e) factorul eliminat apropie de medie indicatorul intensiv
+---------------------------------------------------------------------
+166. Selectaţi scopurile utilizării metodei de standardizare:
+a) !identificarea cauzelor diferențelor dintre mărimile relative sau medii comparate
+b) !compararea şi analiza fenomenelor produse în populații neomogene
+c) determinarea gradului de neomogenitate a totalităţilor comparate
+d) identificarea cauzelor asemănării mărimilor relative sau medii comparate
+e) compararea şi analiza fenomenelor produse în populații omogene
+---------------------------------------------------------------------
+167. Precizati la care etapă a metodei de standardizare se utilizează mărimi absolute:
+a) prima şi a cincea
+b) prima şi a treia
+c) a doua şi a treia
+d) a doua şi a patra
+e) !la toate etapele
+---------------------------------------------------------------------
+168. Selectați care, din cele enumerate, reflectă valoarea numerică reală a fenomenului?
+a) indicatorii generali și speciali corelați ai standardului
+b) indicatorii generali și speciali standardizaţi
+c) indicatorii generali şi speciali extensivi
+d) !indicatorii generali și speciali intensivi
+e) mărimea relativă a fenomenului
+---------------------------------------------------------------------
+169. Selectați etapa standardizării directe, în care poate fi confirmată prezenţa factorilor ce
+influenţează mărimea fenomenului studiat:
+a) !prima
+b) a doua
+c) a treia
+d) a patra
+e) a cincea
+---------------------------------------------------------------------
+170. Selectați indicatorii obținuți la prima etapă a standardizării directe:
+a) standardizați generali
+b) absoluți generali
+c) intensivi standardizaţi
+d) !intensivi generali
+e) absoluţi standardizaţi
+---------------------------------------------------------------------
+171. Selectați afirmațiile corecte privitor la indicatorii standardizati:
+a) sunt obţinuţi din totalităţi formate în mod natural
+b) !sunt obţinuţi din totalităţi formate artificial
+c) sunt obținuți pâna la cunoașterea indicatorilor intensivi
+d) !sunt o măsură convențională a fenomenului
+e) !sunt obținuți după cunoașterea indicatorilor intensivi
+---------------------------------------------------------------------
+172. Care din variantele propuse reflectă esenţa etapei a cincea a metodei directe de standardizare?
+a) compararea indicatorilor intensivi speciali cu cei standardizați
+b) compararea indicatorilor absoluți speciali cu cei standardizați
+c) !compararea indicatorilor intensivi generali cu cei standardizați
+d) compararea indicatorilor absoluți generali cu cei standardizați
+e) compararea indicatorilor corelați speciali cu cei standardizați
+---------------------------------------------------------------------
+173. Alegeti varianta corespunzătoare sensului etapei a treia a metodei directe de standardizare:
+a) !calculul mărimilor absolute aşteptate ale fenomenului în grupele de standard
+b) calculul mărimilor absolute corelate ale fenomenului în grupele de standard
+c) calculul mărimilor medii aşteptate ale fenomenului în grupele de standard
+d) calculul mărimilor relative corelate ale fenomenului în grupele de standard
+e) calculul mărimilor relative aşteptate ale fenomenului în grupele de standard
+---------------------------------------------------------------------
+174. Selectați ce corespunde etapei a patra a metodei directe de standardizare:
+a) calculul indicatorilor sumarizati
+b) calculul valorilor aşteptate
+c) !calculul indicatorilor standardizaţi
+d) calculul mărimilor absolute speciale
+e) calculul indicatorilor corelați
+---------------------------------------------------------------------
+175. Selectați cazurile de NEUTILIZARE a metodei directe de standardizare:
+a) !compararea indicatorilor identici în totalități omogene
+b) !compararea indicatorilor diferiți în totalități omogene
+c) compararea indicatorilor diferiți în totalități neomogene
+d) !compararea indicatorilor identici în totalități neomogene
+e) compararea indicatorilor identici într-o totalitate
+---------------------------------------------------------------------
+176. Selectați varianta corectă a concluziei în cazul prezenței diferenței dintre mărimea
+indicatorilor standardizaţi și a celor intensivi (A < B; A > B):
+a) factorul eliminat nu influenţează mărimea indicatorului intensiv
+b) !factorul eliminat influenţează mărimea indicatorului intensiv
+c) factorul eliminat influenţează mărimea indicatorului intensiv în direcţia creşterii
+d) factorul eliminat influenţează mărimea indicatorului intensiv în direcţia descreşterii
+e) factorul eliminat apropie de medie indicatorul intensiv
+---------------------------------------------------------------------
+177. Precizați ce poate fi standard în cadrul metodei directe de standardizare:
+a) !componenţa unei totalităţi
+b) rata generală
+c) !suma totalităţilor comparate
+d) rata specială
+e) !semisuma totalităţilor comparate
+---------------------------------------------------------------------
+178. Selectaţi domeniile de aplicare ale epidemiologiei în sănătatea publică:
+a) !determinarea factorilor de risc
+b) descrierea istoriei naturale a bolilor
+c) !depistarea şi supravegherea bolilor la nivel de populație
+d) depistarea şi supravegherea bolilor la nivel de individ
+e) !clasificarea bolilor
+---------------------------------------------------------------------
+179. Selectaţi etapele cercetării fundamentale ale epidemiologiei:
+a) supravegherea bolii
+b) profilaxia primară
+c) profilaxia terţiară
+d) !depistarea clinică a bolii
+e) !iniţierea procesului epidemiologic
+---------------------------------------------------------------------
+180. Indicaţi principalele tipuri de studii epidemiologice:
+a) !descriptive
+b) narative
+c) !analitice
+d) secţionale
+e) proporționale
+---------------------------------------------------------------------
+181. Selectaţi caracteristicile anchetelor descriptive
+a) testează relaţia cauzală sau eficacitatea unor tratamente
+b) permit elaborarea ipotezelor precum și cunoaşterea factorului de risc şi a efectului
+c) !estimează existenţa într-o populaţie a unor maladii şi a unor factori de risc
+d) !permit elaborarea ipotezelor, dar nu permit cunoaşterea factorului de risc şi a efectului
+e) dovedesc relaţia cauzală sau eficacitatea unor tratamente
+---------------------------------------------------------------------
+182. Selectati afirmatia corectă cu privire la notiunea „asociaţie epidemiologică”:
+a) !relaţia ce se poate dovedi că există între factorii de risc sau de protecție şi boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) relaţia ce se poate dovedi că există între factorii de risc si factorii de protecție
+d) probabilitatea apariţiei bolilor sau decesului în prezenţa sau absenţa factorilor de risc
+e) relaţia ce se poate dovedi că există între factorii de protecție şi factorii neutri
+---------------------------------------------------------------------
+183. Selectati afirmatia corectă pentru notiunea „populaţie la risc”
+a) !populaţia purtătoare a factorilor de risc, susceptibilă de a dezvolta o anumită boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) factor despre care până în prezent nu se cunoaşte că s-ar asocia cu starea de sănătate sau
+starea de boală a unei populaţii
+d) factorul care prin existenţa sa provoacă aparitia bolilor într-o populaţie
+e) populaţia fără factori de risc, care nu poate dezvolta o anumită boală
+---------------------------------------------------------------------
+184. Selectați obiectele preocupărilor epidemiologice:
+a) !populaţia ţintă
+b) individul sănătos
+c) !lotul de bolnavi
+d) individul investigat
+e) individul bolnav
+---------------------------------------------------------------------
+185. Selectaţi varianta corectă de răspuns pentru termenul „frecvenţa bolii”:
+a) populaţia purtătoare a factorilor de risc, susceptibilă de a dezvolta o anumită boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) !intensitatea cu care apare o boală într-o populaţie
+d) condiţia care prin existenţa ei menţine starea de sănătate a unei populaţii
+e) raportul dintre bolile existente într-o populaţie
+---------------------------------------------------------------------
+186. Selectati afirmatia corectă pentru termenul „cauzalitate”:
+a) populaţia purtătoare a factorilor de risc, susceptibilă de a dezvolta o anumită boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) !relaţia dintre toţi factorii de risc şi efectele pe care le-ar putea produce
+d) condiţia care prin existenţa ei menţine starea de sănătate a unei populaţii
+e) condiţia care prin existenţa ei deteriorează starea de sănătate a unei populaţii
+---------------------------------------------------------------------
+187. Selectaţi domeniile de aplicare ale epidemiologiei în medicina clinică:
+a) clasificarea bolilor
+b) !descrierea istoriei naturale a bolilor
+c) !studiul pronosticului bolilor
+d) !studiul etiologiei bolilor
+e) depistarea şi supravegherea în masă a bolilor
+---------------------------------------------------------------------
+188. Selectaţi afirmatia corecta referitor la notiunea „epidemie”:
+a) populaţia purtătoare a factorilor de risc, susceptibilă de a dezvolta o anumită boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă mai mare decât cea aşteptată
+c) !apariţia unei boli sau a unei grupe de boli cu caracteristici similare într-o colectivitate
+umană, cu o frecvenţă în exces faţă de cea aşteptată
+d) condiţia care prin existenţa ei menţine starea de sănătate a unei populaţii
+e) apariţia unei boli sau a unei grupe de boli cu caracteristici similare într-o colectivitate
+umană, cu o frecvenţă mai mică decât cea aşteptată
+---------------------------------------------------------------------
+189. Selectaţi caracteristicile factorilor de protecţie:
+a) influenţează negativ starea de sănătate.
+b) !influenţează pozitiv starea de sănătate.
+c) !măresc speranţa de viaţă.
+d) !micșorează incidența bolilor.
+e) nu influențează starea de sănătate.
+---------------------------------------------------------------------
+190. Selectaţi formula de calcul a prevalenţei:
+a) !numărul total de cazuri de boală/numărul populaţiei x 1000
+b) numărul total de cazuri de boală/numărul populaţiei examinate x 1000
+c) numărul total de cazuri noi de boală/numărul populaţiei x 1000
+d) numărul total de cazuri noi de boală/ani - persoană de observaţie x 1000
+e) numărul total de cazuri de boală/numărul populaţiei dispensarizate x 1000
+---------------------------------------------------------------------
+191. Alegeți răspunsul corect pentru notiunea „risc”:
+a) probabilitatea apariţiei bolilor sau decesului numai în absenta factorilor de risc
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) condiția despre care până în prezent nu se cunoaşte că s-ar asocia cu starea de
+sănătate sau starea de boală a unei populaţii
+d) !probabilitatea apariţiei bolilor sau decesului în prezenţa sau absenţa factorilor de risc
+e) probabilitatea apariţiei bolilor sau decesului numai în prezenţa factorilor de risc
+---------------------------------------------------------------------
+192. Selectaţi studiile descriptive efectuate la nivel de populaţie:
+a) !de corelaţie
+b) caz-control
+c) serii de cazuri
+d) de cohortă
+e) de caz
+---------------------------------------------------------------------
+193. Selectati formula de calcul a incidenţei:
+a) !numărul de cazuri noi de boală/numărul populaţiei x 1000
+b) numărul de cazuri noi de boală/numărul populaţiei sănătoase x 1000
+c) numărul de cazuri noi de boală/numărul populaţiei dispensarizate x 1000
+d) numărul de cazuri noi de boală/numărul populaţiei examinate x 1000
+e) numărul total de cazuri de boală/numărul populaţiei x 1000
+---------------------------------------------------------------------
+194. Precizați formula de calcul a incidenţei densitate:
+a) numărul de cazuri noi de boală în perioada de observatie/numărul populaţiei x 1000
+b) numărul de cazuri noi de boală în perioada de observaţie/numărul populaţiei x 1000
+c) !numărul de cazuri noi de boală în perioada specificată/ani - persoană de observaţie x
+1000
+d) numărul total de cazuri de boală/ani - persoană de observaţie x 1000
+e) numărul total de cazuri de boală/ numărul populatiei examinate x 1000
+---------------------------------------------------------------------
+195. Selectati afirmația corectă cu privire la notiunea „factor indiferent”:
+a) relaţia ce se poate dovedi că există între două categorii distincte: factori de risc şi boală
+b) orice condiţie care poate fi descrisă şi dovedită că se asociază apariţiei unei
+anumite stări morbide cu o frecvenţă superioară celei aşteptate
+c) !factor despre care până în prezent nu se cunoaşte că s-ar asocia cu starea de sănătate sau
+starea de boală a unei populaţii
+d) probabilitatea apariţiei bolilor sau decesului în prezenţa sau absenţa factorilor de risc
+e) factor despre care până în prezent se cunoaşte că s-ar asocia cu starea de sănătate sau
+starea de
+boală a unei populaţii
+---------------------------------------------------------------------
+196. Selectaţi studiile descriptive, efectuate la nivel de individ:
+a) ecologice
+b) !transversale
+c) !serii de cazuri
+d) !de caz
+e) experimentale
+---------------------------------------------------------------------
+197. Precizați avantajele studiilor transversale:
+a) !permit evaluarea completă a prevalenţei
+b) !se desfăşoară într-un timp relativ scurt
+c) !permit colectarea informatiilor despre mai multi factori de risc
+d) oferă un volum limitat de date
+e) permit evaluarea completă a incidenţei
+---------------------------------------------------------------------
+198. Selectaţi indicatorii utilizaţi în analiza studiilor descriptive:
+a) !indicatori intensivi
+b) !indicatori de proportie
+c) !indicatori de raport
+d) !indicatori demonstrativi
+e) indicatori transformativi
+---------------------------------------------------------------------
+199. Selectaţi caracteristicile personale care pot fi înregistrate în studiile descriptive:
+a) !vârsta
+b) !sexul
+c) !starea civilă
+d) amplasarea geografică
+e) !categoria socială
+---------------------------------------------------------------------
+200. Indicați particularitatea factorilor indiferenţi:
+a) măresc speranţa de supravieţuire
+b) scad frecvenţa îmbolnăvirilor
+c) !nu influențează starea de sănătate
+d) influenţează negativ starea de sănătate
+e) influenţează pozitiv starea de sănătate
+---------------------------------------------------------------------
+201. Selectaţi caracteristicile temporale, înregistrate în studiile descriptive:
+a) distribuţia bolilor pe grupe de vârstă
+b) distribuţia bolilor pe sexe
+c) !distribuţia bolilor pe luni
+d) distribuţia bolilor pe categorii sociale
+e) !distribuţia temporală a factorilor de risc
+---------------------------------------------------------------------
+202. Selectaţi etapele cercetării aplicative ale epidemiologiei:
+a) !profilaxia terţiară
+b) !profilaxia primordială
+c) iniţierea procesului epidemiologic
+d) !profilaxia primară
+e) !profilaxia secundară
+---------------------------------------------------------------------
+203. Selectați afirmația greșită despre studiile transversale:
+a) suprareprezintă cazurile prevalente
+b) sunt subprezentate cazurile incidente
+c) oferă un volum mare de date
+d) permit colectarea informaţiilor despre mai mulţi factori de risc
+e) !testează ipotezele, generate de studiile de caz
+---------------------------------------------------------------------
+204. Selectaţi caracteristicile spaţiale ale colectivităţii în studiile descriptive:
+a) distribuţia bolilor pe vârste
+b) distribuţia bolilor pe sexe
+c) !distribuţia bolilor pe medii rezidențiale
+d) distribuţia bolilor pe categorii sociale
+e) !distribuţia bolilor pe zone de dezvoltare
+---------------------------------------------------------------------
+205. Selectați variabilele investigate într-o anchetă analitică observaţională:
+a) !expunerea
+b) randomizarea
+c) procesul
+d) !rezultatul
+e) interpolarea
+---------------------------------------------------------------------
+206. Alegeți afirmația corectă despre factorii de risc:
+a) influenţează pozitiv starea de sănătate.
+b) caracterizează starea de sănătate
+c) nu acţionează asupra stării de sănătate.
+d) !influenţează negativ starea de sănătate.
+e) menţin starea de sănătate.
+---------------------------------------------------------------------
+207. Selectați afirmația corectă despre studiile transversale:
+a) suprareprezintă cazurile incidente
+b) sunt subprezentate cazurile prevalente
+c) oferă un volum mic de date
+d) !permit colectarea informaţiilor despre mai mulţi factori de risc
+e) testează ipotezele, generate de studiile de caz
+---------------------------------------------------------------------
+208. Precizați tipul expunerii într-o anchetă analitică observatională:
+a) activă
+b) !naturală
+c) dirijată
+d) reziduală
+e) impusă
+---------------------------------------------------------------------
+209. Selectați rezultatele posibile ale unui studiu epidemiologic analitic:
+a) !decesul
+b) !durerea
+c) !boala
+d) !dizabilitatea
+e) expunerea
+---------------------------------------------------------------------
+210. Precizați tipul expunerii într-un studiu clinic randomizat:
+a) !activă
+b) naturală
+c) dirijată
+d) reziduală
+e) impusă
+---------------------------------------------------------------------
+211. Selectaţi particularitatea investigaţiei epidemiologice într-un studiu caz - control:
+a) măsurarea concomitentă a expunerii şi rezultatului
+b) măsurarea concomitentă a rezultatului şi expunerii
+c) orientată de la expunere spre rezultat
+d) !orientată de la rezultat spre expunere
+e) nu este legată nici de expunere, nici de rezultat
+---------------------------------------------------------------------
+212. Precizați modul de selecție a subiecţilor într-un studiu caz - control:
+a) în funcţie de expunere
+b) !în funcţie de rezultat
+c) mixt
+d) fara legatura cu expunerea sau rezultatul
+e) conform graficului Lexis
+---------------------------------------------------------------------
+213. Selectaţi sinonimele studiilor caz - control
+a) !retrospective
+b) !anamnestice
+c) mixte
+d) de aşteptare
+e) de incidenţă ---------------------------------------------------------------------
+214. Precizați sursele de cazuri într-un studiu caz-control:
+a) !toate cazurile în comunitate cu diagnosticul studiat
+b) !toate cazurile în toate spitalele cu diagnosticul studiat
+c) !toate cazurile într-un eșantion de populație cu diagnosticul studiat
+d) !toate cazurile dintr-un spital cu diagnosticul studiat
+e) toate cazurile dintr-un spital, cu diagnosticul nestudiat
+---------------------------------------------------------------------
+215. Precizați sursele de martori într-un studiu caz-control:
+a) !eșantion de pacienți spitalizați, care nu au boala
+b) !eşantion din populaţia generală
+c) !non-cazurile dintr-un eșantion de populație
+d) eșantion de pacienți spitalizați, care au boala
+e) toate cazurile de boală într-un spital
+---------------------------------------------------------------------
+216. Precizați direcția de colectare a datelor în studiile caz - control:
+a) longitudinal prospectiv
+b) !longitudinal retrospectiv
+c) încrucișat prospectiv
+d) transversal prospectiv
+e) transversal retrospectiv
+---------------------------------------------------------------------
+217. Selectați afirmațiile corecte privind lotul martor într-un studiu caz - control:
+a) !trebuie să fie similar lotului de cazuri, cu excepţia bolii studiate
+b) trebuie să fie similar lotului de cazuri, inclusiv boala studiată
+c) !trebuie să provină din aceeași populație la risc pentru boală
+d) !trebuie să fie cât mai heterogen
+e) trebuie să fie cât mai omogen
+---------------------------------------------------------------------
+218. Selectaţi avantajele studiilor caz - control:
+a) !utile pentru studierea bolilor cu perioadă de latenţă mare
+b) !sunt mai puţin costisitoare decât studiile de cohortă
+c) !necesită mai puţin timp pentru desfăşurarea studiului, decât cele de cohortă
+d) necesită mai mult timp pentru desfăşurarea studiului, decât cele de cohortă
+e) !preferate pentru studierea bolilor rare
+---------------------------------------------------------------------
+219. Selectaţi dezavantajele studiilor caz - control:
+a) sunt studii de durată, unele persoane pot deceda, migra sau refuza participarea
+b) !nu permit măsurarea directa a Riscului Relativ
+c) !studiază doar un singur efect
+d) foarte costisitoare în termeni de timp, personal şi urmărire a pacienţilor
+e) !dificil de a constitui un grup martor acceptabil
+---------------------------------------------------------------------
+220. Selectaţi afirmația corectă cu referire la studiul hibrid:
+a) !studiu caz – control efectuat pe baza unui studiu de cohortă în desfăşurare
+b) studiu caz - control efectuat pe baza unui studiu descriptiv în desfăşurare
+c) studiu caz - control efectuat pe baza unui studiu clinic randomizat în desfăşurare
+d) studiu caz - control efectuat pe baza unui studiu transversal în desfăşurare
+e) studiu caz - control efectuat pe baza unui studiu de caz în desfăşurare
+---------------------------------------------------------------------
+221. Selectați indicatorul de măsurare a forţei asocierii epidemiologice în studiile caz - control:
+a) !odds ratio
+b) odds atributiv
+c) odds prevalent
+d) odds risc
+e) odds rate
+---------------------------------------------------------------------
+222. Selectați indicatorul de măsurare a impactului acţiunii factorului de risc în populaţie în studiile
+caz
+- martor:
+a) riscul relativ
+b) !riscul atribuibil
+c) riscul absolut
+d) riscul prevalent
+e) riscul distribuibil
+---------------------------------------------------------------------
+223. Selectați caracteristicile indicatorului OR (Odds Ratio):
+a) arată de câte ori este mai mare riscul bolii la expuşi faţă de cei neexpuşi
+b) !măsoară forţa asociației epidemiologice
+c) arată cu cât este mai mare riscul bolii la expuşi faţă de neexpuşi
+d) !este raportul dintre șansa expunerii la bolnavi și șansa expunerii la nonbolnavi
+e) măsoară impactul acţiunii factorului de risc în populaţie
+---------------------------------------------------------------------
+224. Selectați caracteristicile Riscului Atribuibil (RA) în studiile caz - control:
+a) arată de câte ori este mai mare riscul bolii la expuşi faţă de neexpuşi
+b) măsoară forţa asocierii epidemiologice
+c) arată cu cît este mai mare riscul bolii la cei expuşi faţă de nonexpuşi
+d) este raportul dintre șansa expunerii la bolnavi și șansa expunerii la nonbolnavi
+e) !măsoară impactul acţiunii factorului de risc în populaţie
+---------------------------------------------------------------------
+225. Pentru ca asociaţia epidemiologică dintre factorul de risc şi boală să fie dovedită într-un
+studiu caz-control, Odds Ratio (OR) trebuie să ia valori:
+a) egale cu 1 și semnificative statistic
+b) !mai mari sau mai mici decît 1 și semnificative statistic
+c) mai mari sau mai mici decît 1 și nesemnificative statistic
+d) egale cu zero și nesemnificative statistic
+e) să fie cuprinse strict în intervalul [-2;2] și semnificative statistic
+---------------------------------------------------------------------
+226. Selectati concluzia corectă pentru Odds Ratio egal cu 1:
+a) expunerea este factor de risc
+b) expunerea este factor de protecţie
+c) !expunerea este factor indiferent
+d) expunerea este moderată
+e) expunerea este evidentă
+---------------------------------------------------------------------
+227. Selectati afirmatia corectă pentru Odds Ratio mai mare decît 1:
+a) !expunerea este factor de risc, pentru că cota expunerii este mai mare la cazuri
+b) expunerea este factor de risc, pentru că cota expunerii este mai mică la cazuri
+c) expunerea este factor de protectie, pentru că cota expunerii este mai mare la cazuri
+d) expunerea este factor neutru, pentru că cota expunerii este mai mare la cazuri
+e) expunerea este factor neutru, pentru că cota expunerii este egală la cazuri şi martori
+---------------------------------------------------------------------
+228. Selectați afirmațiile corecte despre studiile caz-control:
+a) subiecţii, care au problema de sănătate, sunt numiţi martori
+b) subiecţii, care nu au problema de sănătate, sunt numiţi cazuri
+c) !compară expunerea bolnavilor cu a celor sănătoşi
+d) !subiecţii sunt împărţiţi în funcţie de rezultat
+e) sunt studii prospective
+---------------------------------------------------------------------
+229. Selectati varianta corectă de răspuns pentru Odds Ratio mai mic decît 1:
+a) expunerea este factor de risc, pentru că cota expunerii este mai mare la cazuri
+b) !expunerea este factor de protecție, pentru că cota expunerii este mai mică la cazuri
+c) expunerea este factor neutru, pentru că cota expunerii este mai mică la cazuri
+d) expunerea este factor de protectie, pentru că cota expunerii este mai mare la cazuri
+e) expunerea este factor neutru, pentru că cota expunerii este egală la cazuri şi martori
+---------------------------------------------------------------------
+230. Selectaţi afirmaţiile corecte cu privire la studiile caz-martor:
+a) !sunt adecvate pentru problemele de sănătate ce apar rar
+b) sunt adecvate pentru determinarea ratelor de incidenţă
+c) !sunt mai puţin costisitoare decât studiile de cohortă
+d) compară rezultatele expușilor și neexpușilor
+e) !greu asigură comparabilitatea între cazuri și martori
+---------------------------------------------------------------------
+231. Selectaţi afirmaţiile GREȘITE despre studiile caz-martor:
+a) sunt adecvate pentru problemele de sănătate ce apar rar
+b) !sunt adecvate pentru determinarea ratelor de incidenţă
+c) sunt mai puţin costisitoare decât studiile de cohortă
+d) !compară rezultatele expușilor și neexpușilor
+e) greu asigură comparabilitatea între cazuri și martori
+---------------------------------------------------------------------
+232. Selectaţi afirmaţiile valide cu privire la studiile caz-martor:
+a) odds ratio estimează adecvat riscul relativ dacă ratele de incidenţă ale bolii studiate sunt mari
+b) permit calcularea riscului relativ
+c) !necesită, de regulă, eșantioane mai mici decât în studiile de cohortă
+d) necesită, de regulă, eșantioane mai mari decât în studiile de cohortă
+e) !un odds ratio mai mare sau mai mic de 1 denotă că boala este este asociată cu expunerea
+---------------------------------------------------------------------
+233. Selectaţi afirmaţiile GREȘITE despre studiilor caz-martor:
+a) !odds ratio estimează adecvat riscul relativ dacă ratele de incidenţă ale bolii studiate sunt
+mari
+b) !permit calcularea riscului relativ
+c) necesită, de regulă, eșantioane mai mici decât în studiile de cohortă
+d) !necesită, de regulă, eșantioane mai mari decât în studiile de cohortă
+e) un odds ratio mai mare sau mai mic de 1 denotă că boala este este asociată cu expunerea
+---------------------------------------------------------------------
+234. Precizați cauza neaplicării măsurilor asocierii, utilizate în studiile de cohortă, pentru studiile
+caz martor:
+a) lotul de control este selectat dintr-o populaţie diferită de cea a cazurilor
+b) din cauza erorii de reprezentativitate
+c) !nu se pot calcula rate fără cunoaşterea expunerii
+d) studiul caz control compară indivizii expuşi şi neexpuşi
+e) din cauza erorii standard
+---------------------------------------------------------------------
+235. Selectaţi afirmaţiile valabile pentru studiile caz-martor:
+a) subiecţii de studiu din populaţia ţintă sunt alocaţi grupului de tratament sau celui de
+comparare
+b) !cazurile sunt persoanele care au problema de sănătate studiată
+c) !scopul studiului este de a decide dacă expunerea studiată poate fi responsabilă de
+condiţia de sănătate a cazurilor
+d) !pentru a fi inclus în studiu cazul trebuie să aibă sigur problema de sănătate studiată
+e) rudele cazurilor nu pot fi folosite pentru formarea de perechi
+---------------------------------------------------------------------
+236. Selectaţi avantajele studiilor caz-control:
+a) !uşor de efectuat
+b) !utile pentru studierea bolilor rare
+c) permit calculul incidenţei bolilor
+d) permit stabilirea uşoară a relaţiei temporale dintre factor şi rezultat
+e) !sunt relativ ieftine
+---------------------------------------------------------------------
+237. Selectaţi denumirile corecte pentru studiile experimentale:
+a) !intervenţionale
+b) !randomizate
+c) !terapeutice
+d) anamnestice
+e) de prevalenţă
+---------------------------------------------------------------------
+238. Selectaţi caracteristica studiilor clinice:
+a) sunt studii necontrolate
+b) emit ipoteze care urmează a fi testate ulterior
+c) cercetătorul nu administrează factorul studiat
+d) !dovedesc eficacitatea tratamentelor, intervenţiilor
+e) sunt retrospective
+---------------------------------------------------------------------
+239. Selectaţi domeniile de aplicare a studiilor clinice:
+a) !evaluarea eficacităţii vaccinurilor noi
+b) !experimentarea medicamentelor noi
+c) !evaluarea de noi conduite terapeutice
+d) !evaluarea unor programe de profilaxie
+e) evaluarea expunerii la un factor de risc
+---------------------------------------------------------------------
+240. Selectaţi caracteristica fazei I de experimentare a medicamentelor
+a) !se efectuează pe un număr mic de subiecţi (30-100)
+b) !evaluează toleranţa şi siguranţa tratamentului
+c) precizează eficacitatea optimală a tratamentului
+d) se efectuează la 100-200 subiecţi
+e) stabileşte eficacitatea tratamentului, prin teste terapeutice comparative
+---------------------------------------------------------------------
+241. Selectaţi caracteristica fazei III de experimentare a medicamentelor
+a) se efectuează pe un număr mic de subiecţi (30-100)
+b) evaluează toleranţa şi siguranţa tratamentului
+c) precizează eficacitatea optimală a tratamentului
+d) !se efectuează la 500-1500 subiecţi
+e) !stabileşte eficacitatea tratamentului, prin teste terapeutice comparative
+---------------------------------------------------------------------
+242. Selectaţi caracteristica fazei IV, postmarketing, de experimentare a medicamentelor:
+a) se efectuează pe un număr mic de subiecţi (30-100)
+b) !are ca scop precizarea eventualelor indicaţii noi
+c) !urmăresc precizarea efectelor nedorite pe termen lung ale tratamentului
+d) !sunt efectuate după ce tratamentul este aprobat pentru utilizare generală
+e) stabileşte eficacitatea tratamentului, prin teste terapeutice comparative
+---------------------------------------------------------------------
+243. Selectați procedeul de selecție, recomandat pentru repartizarea subiecților în loturile de studiu
+într-un studiu clinic randomizat:
+a) selecția aleatoare simplă dirijată
+b) selecția aleatoare stratificată dirijată
+c) selecția aleatoare mecanică dirijată
+d) !selecția aleatoare simplă sau stratificată
+e) selectia nonprobabilistică aleatoare
+---------------------------------------------------------------------
+244. Selectaţi afirmația corectă cu privire la eşantionarea neprobabilistică în studiile clinice:
+a) fiecare unitate are o probabilitate de selecţie independentă, mai mare decât zero
+b) !alegerea dirijată a grupelor de studiu
+c) alegerea grupelor de studiu se face la întîmplare
+d) alegerea grupelor de studiu se face nedirijat
+e) se aleg aleator grupe stratificate în funcţie de unele caracteristici (vârstă, sex)
+---------------------------------------------------------------------
+245. Selectaţi caracteristicile studiului clinic controlat:
+a) !subiecţii incluși în studiu trebuie să fie asemănători în ceea ce priveşte boala, mediul,
+maladiile asociate
+b) !subiecţii trebuie să se deosebească numai prin administrarea tratamentului
+c) !unităţile de studiu se alocă randomizat în grupele de tratament
+d) controlul poate fi efectuat prin atribuirea a cât mai multe variabile
+e) !controlul poate fi efectuat prin atribuirea a cât mai puţine variabile ---------------------------------------------------------------------
+246. Selectaţi afirmațiile corecte pentru termenul „Randomizare”:
+a) !este o modalitate fezabilă de formare a grupurilor comparabile
+b) !oferă șanse egale oricărui individ de a primi oricare din tratamentele propuse
+c) !probabilitățile indivizilor de a fi repartizați în grupele de studiu sunt independente
+d) !pentru randomizare este utilizat tabelul cu numere aleatoare
+e) probabilitățile indivizilor de a fi repartizați în grupele de studiu sunt dependente ---------------------------------------------------------------------
+247. Selectaţi afirmațiile corecte cu referire la modelul de tratament „în paralel” din studiile clinice:
+a) !subiecţii ambelor grupe urmează o singură schemă terapeutică pe toată perioda studiului
+b) !necesită un număr mare de subiecți din cauza variabilității pronunțate a rezultatelor
+c) subiectul este alocat aleator într-un grup ce urmează o succesiune predefinită de
+tratamente unde fiece persoană primeşte mai mult de un tratament
+d) între tratamentele succesive poate fi o perioadă fără tratament, pentru a diminua efectele
+de lungă durată a tratamentului administrat
+e) perioada de urmărire trebuie să fie egală la toate tratamentele administrate ---------------------------------------------------------------------
+248. Selectaţi caracteristica fazei II de experimentare a medicamentelor
+a) se efectuează pe un număr mic de subiecţi (30-100)
+b) evaluează toleranţa şi siguranţa tratamentului
+c) !precizează eficacitatea optimală a tratamentului
+d) !se efectuează la 100-200 subiecţi
+e) stabileşte eficacitatea tratamentului, prin teste terapeutice comparative ---------------------------------------------------------------------
+249. Selectaţi caracteristica modelului de tratament „de substituire” din studiile clinice:
+a) !se utilizează când formarea grupurilor de studiu este dificilă
+b) fiecărui subiect luat în studiu i se administrează ambele scheme de tratament, pentru comparare
+c) !studiul poate fi întrerupt când se poate stabili o diferenţă semnificativă de
+eficacitate a tratamentului
+d) variabilitatea de răspuns al unui subiect la două tratamente diferite este mai mică
+decât variabilitatea de răspuns a doi subiecţi diferiţi
+e) necesită administrarea tratamentului de scurtă durată cu o perioadă „de spălare” între
+tratamentele administrate ---------------------------------------------------------------------
+250. Selectaţi caracteristicile modelului de tratament „încrucişat (crossover)” din studiile clinice:
+a) se utilizează când formarea grupurilor de studiu este dificilă
+b) !fiecărui subiect luat în studiu i se administrează ambele scheme de tratament, pentru comparare
+c) studiul poate fi întrerupt când se poate stabili o diferenţă semnificativă de
+eficacitate a tratamentului
+d) !variabilitatea de răspuns al unui subiect la două tratamente diferite este mai mică
+decât variabilitatea de răspuns a doi subiecţi diferiţi
+e) !necesită administrarea tratamentului de scurtă durată cu o perioadă „de spălare”
+între tratamentele administrate
+---------------------------------------------------------------------
+251. Selectaţi modalităţile de administrare a intervenţiei în studiul clinic randomizat:
+a) dirijat
+b) !simplu orb
+c) !dublu orb
+d) !triplu orb
+e) mecanic
+---------------------------------------------------------------------
+252. Selectaţi caracteristicile modalităţii de deschise de administrare a intervenţiei medicale în
+studiile clinice:
+a) !cercetătorul şi subiecţii din loturile de stuidu sunt informaţi referitor la tratamentul
+administrat
+b) !cercetătorul cunoaşte care este lotul test şi care este lotul martor
+c) subiecţii nu cunosc în care lot au fost alocaţi
+d) cercetătorul poate urmări lotul test cu o mai mare atenţie decât lotul martor
+e) cercetătorul poate să nu observe unele aspecte apărute în lotul martor
+---------------------------------------------------------------------
+253. Selectați afirmațiile corecte despre studiile clinice randomizate:
+a) !grupurile de studiu sunt identice, cu excepţia tratamentului
+b) pot fi retrospective
+c) se numesc studii randomizate indiferent de modul alocării tratamentului
+d) prima etapă furnizează informaţii despre eficacitatea tratamentului
+e) !sunt considerate mai valide decât studiile de cohortă
+---------------------------------------------------------------------
+254. Selectaţi afirmațiile corecte despre modalitatea de administrare a intervenţiei medicale
+„simplu orb”:
+a) cercetătorul şi subiecții din loturile de stuidu sunt informaţi referitor la tratamentul
+administrat
+b) !cercetătorul cunoaşte care este lotul test şi care este lotul martor
+c) !subiecţii nu cunosc în care lot au fost alocaţi
+d) !cercetătorul poate urmări lotul test cu o mai mare atenţie decât lotul martor
+e) !cercetătorul poate să nu observe unele aspecte apărute în lotul martor
+---------------------------------------------------------------------
+255. Selectaţi afirmațiile corecte despre modalitatea de administrare a intervenţiei medicale
+„Dublu orb”:
+a) !cercetătorul nu cunoaşte în care lot au fost repartizaţi subiecţii
+b) !subiecţii nu cunosc în care lot au fost repartizaţi !
+c) !cercetătorul primeşte produsele în ambalaje identice, cu numere de serie diferite, pe care le
+va comunica conducătorului studiului, odată cu rezultatele
+d) tratamentul administrat este necunoscut pentru trei persoane: cercetătorul, subiectul şi
+persoana ce măsoară criteriul de raţionament
+e) cercetătorul şi subiecţii din cele două loturi sunt informaţi referitor la tratamentul
+administrat
+---------------------------------------------------------------------
+256. Selectaţi caracteristica modalităţii de administrare a intervenţiei medicale „Triplu orb”
+a) cercetătorul nu cunoaşte în care lot au fost repartizaţi subiecţii
+b) subiecţii nu cunosc în care lot au fost repartizaţi
+c) cercetătorul primeşte produsele în ambalaje identice, cu numere de serie diferite, pe care le
+va comunica conducătorului studiului, odată cu rezultatele
+d) !tratamentul administrat este necunoscut pentru cercetător, subiect şi persoana ce
+măsoară criteriul de raţionament
+e) cercetătorul şi subiecţii din cele două loturi sunt informaţi referitor la administrare
+---------------------------------------------------------------------
+257. Selectați afirmațiile corecte despre studiile clinice randomizate:
+a) sunt studii experimentale retrospective
+b) !sunt considerate mai valide decât studiile caz-control
+c) !grupurile de studiu sunt identice, cu excepția tratamentul
+d) !se utilizează pentru evaluarea eficacităţii tratamentelor
+e) sunt esenţiale pentru observarea istoriei naturale a bolilor
+---------------------------------------------------------------------
+258. Precizați ce măsoară riscul relativ (RR) în studiile clinice:
+a) !de câte ori este mai mare/mai mic riscul bolii la tratați față de netratați
+b) de câte ori este mai mare/mai mic riscul bolii la expuși față de neexpuși
+c) de câte ori este mai mare/mai mică expunerea la bolnavi față de nonbolnavi
+d) cu cât mai mare/mai mic impactul acţiunii factorului de risc în populaţie
+e) de câte ori este mai mare/mai mic impactul acţiunii factorului de risc în populaţie
+---------------------------------------------------------------------
+259. Selectați valoarea indicatorului, urmare analizei rezultatelor studiilor clinice, care denotă
+că intervenţia este factor de protecţie:
+a) RR > 1 și semnificativ statistic
+b) RR = 1 și semnificativ statistic
+c) !RR < 1 și semnificativ statistic
+d) RR < 2 și semnificativ statistic
+e) RRR < 1 și semnificativ statistic
+---------------------------------------------------------------------
+260. Selectaţi caracteristica termenului „Rata evenimentului experimental (REE)”:
+a) !frecvența cazurilor de boală în grupul pacientilor tratati cu substanța activă
+b) frecvența cazurilor de boală în grupul pacientilor tratati cu placebo
+c) diferenţa dintre rata evenimentului de control şi rata evenimentului experimental
+d) numărul de pacienţi ce trebuie să beneficieze de tratament, pentru a salva unul de la
+efectul nedorit
+e) proporţia reducerii riscului urmare tratamentului administrat
+---------------------------------------------------------------------
+261. Selectaţi afirmaţiile corecte despre prima etapă a studiilor clinice randomizate:
+a) evaluează siguranţa tratamentului
+b) !oferă informaţii farmacologice despre tratament
+c) !oferă informaţii toxicologice despre tratament
+d) evaluează toleranţa la tratament
+e) evaluează eficacitatea tratamentului
+---------------------------------------------------------------------
+262. Selectaţi caracteristica termenului „Rata evenimentului de control (REC)”:
+a) frecvența cazurilor de boală în grupul pacientilor tratati cu substanța activă
+b) !frecvența cazurilor de boală în grupul pacientilor tratati cu placebo
+c) diferenţa dintre rata evenimentului de control şi rata evenimentului experimental
+d) numărul de pacienţi ce trebuie să beneficieze de tratament, pentru a salva unul de la
+efectul nedorit
+e) proporţia reducerii riscului urmare tratamentului administrat
+---------------------------------------------------------------------
+263. Selectați valoarea indicatorului, urmare analizei rezultatelor studiilor clinice, care denotă
+că intervenţia este factor de risc:
+a) !RR > 1 și semnificativ statistic
+b) RR = 1 și semnificativ statistic
+c) RR < 1 și semnificativ statistic
+d) RR > 1 și nesemnificativ statistic
+e) RRR > 1 și semnificativ statistic
+---------------------------------------------------------------------
+264. Selectaţi caracteristica termenului „Reducerea absolută a riscului (RAR)”:
+a) proporţia pacienţilor din grupul tratat cu substanţa activă, care au răspuns pozitiv
+b) proporţia pacienţilor din grupul tratat cu placebo, care au răspuns pozitiv
+c) !diferenţa dintre rata evenimentului de control şi rata evenimentului experimental
+d) numărul de pacienţi ce trebuie să beneficieze de tratament, pentru a salva unul de la
+efectul nedorit
+e) proporţia reducerii riscului urmare tratamentului administrat
+---------------------------------------------------------------------
+265. Selectaţi afirmaţiile corecte despre faza II, etapa II, studii clinice randomizate:
+a) evaluează efectele de durată ale tratamentului
+b) !determină metoda optimă de administrare
+c) oferă informaţii toxicologice
+d) evaluează toleranţa la tratament
+e) !stabileşte efectele secundare frecvente
+---------------------------------------------------------------------
+266. Selectaţi caracteristica termenului „Reducerea relativă a riscului (RRR)”:
+a) proporţia pacienţilor din grupul tratat cu substanţa activă, care au răspuns pozitiv
+b) proporţia pacienţilor din grupul celor trataţi cu placebo, care au răspuns pozitiv
+c) diferenţa absolută dintre rata evenimentului de control şi rata evenimentului experimental
+d) numărul de pacienţi ce trebuie să beneficieze de tratament, pentru a salva unul de la
+efectul nedorit
+e) !proporţia reducerii riscului urmare tratamentului administrat
+---------------------------------------------------------------------
+267. Selectaţi caracteristica termenului „numărul necesar a fi tratat (NNT)”:
+a) numărul de pacienti tratati cu substanța activă, care au făcut boala
+b) numărul de pacienti tratati cu placebo, care au făcut boala
+c) diferenţa absolută dintre rata evenimentului de control şi rata evenimentului experimental
+d) !numărul de pacienţi ce trebuie să beneficieze de tratament, pentru a salva unul de la
+efectul nedorit
+e) proporţia reducerii riscului martor urmare tratamentului administrat
+---------------------------------------------------------------------
+268. Selectați valorile indicatorilor de analiză a studiilor de cohortă, care denotă că factorul
+examinat se consideră indiferent:
+a) RR > 1, RA > 0
+b) !RR = 1, RA = 0
+c) RR < 1, RA < 0
+d) RR < 1, RA > 0
+e) RRR = 1, RAR = 0
+---------------------------------------------------------------------
+269. Selectaţi caracteristica investigaţiei epidemiologice într-un studiu de cohortă:
+a) se observă şi se măsoară concomitent expunerea şi rezultatul
+b) pe un grafic Lexis corespunde culoarului oblic longitudinal
+c) !studiul porneşte de la expunere spre rezultat
+d) studiul porneşte de la rezultat spre expunere
+e) de regulă este retrospectivă
+---------------------------------------------------------------------
+270. Selectați valorile indicatorilor de analiză a studiilor de cohortă, care denotă că factorul
+examinat se consideră de protecție:
+a) RR > 1, RA > 0
+b) RR > 1, RA < 0
+c) !RR < 1, RA < 0
+d) RR < 1, RA > 0
+e) RRR < 1, RAR < 0
+---------------------------------------------------------------------
+271. Precizați modul de selecție al subiecţilor într-un studiu de cohortă:
+a) !în funcţie de expunere
+b) în funcţie de rezultat
+c) mixtă
+d) independent de expunere și de rezultat
+e) pe un grafic Lexis
+---------------------------------------------------------------------
+272. Selectaţi sinonimele studiilor de cohortă:
+a) !etiologice
+b) anamnestice
+c) mixte
+d) !de aşteptare
+e) !de incidenţă
+---------------------------------------------------------------------
+273. Selectaţi avantajele studiilor de cohortă:
+a) !permit calculul direct al RR pentru fiecare cohortă
+b) sunt utile pentru studierea maladiilor cu o perioadă de latenţă mare
+c) !rezultatele pot fi generalizate pe întreaga populaţie
+d) necesită mai puţin timp pentru desfăşurarea studiului, decât studiile caz - control
+e) !rezultatele apar după acţiunea factorului de risc, ce conferă studiului un caracter
+calitativ crescut
+---------------------------------------------------------------------
+274. Selectaţi dezavantajele studiilor de cohortă:
+a) !sunt studii de durată, unele persoane pot deceda, migra sau refuza participarea
+b) nu permit măsurarea directa a RR
+c) studiază doar un singur efect
+d) !sunt costisitoare în termeni de timp, personal şi urmărire a pacienţilor
+e) este dificil de a constitui un grup martor acceptabil
+---------------------------------------------------------------------
+275. Selectați tipul studiului de cohortă recomandat pentru studiul factorului de risc cu frecvență
+joasă în populație:
+a) prospectiv istoric
+b) experimental tip I
+c) !prospectiv tip II
+d) experimental tip II
+e) prospectiv tip I
+---------------------------------------------------------------------
+276. Selectați afirmația GREȘITĂ despre studiile de cohortă:
+a) de regulă sunt prospective
+b) sunt studii analitice, observaţionale
+c) se mai numesc studii longitudinale
+d) sunt preferate pentru studierea expunerilor rare
+e) !sunt preferate pentru studierea bolilor cu perioada de latenţă mare
+---------------------------------------------------------------------
+277. Selectați tipul studiului de cohortă recomandat pentru studiul factorului de risc cu frecvență
+mare în populație:
+a) prospectiv tip II
+b) prospectiv istoric
+c) !prospectiv tip I
+d) descriptiv tip II
+e) descriptiv tip I
+---------------------------------------------------------------------
+278. Selectați afirmațiile corecte despre studiile de cohortă:
+a) de regulă sunt retrospective
+b) sunt studii analitice, experimentale
+c) !se mai numesc studii longitudinale
+d) !sunt preferate pentru studierea expunerilor rare
+e) sunt preferate pentru studierea bolilor cu perioada de latenţă mare
+---------------------------------------------------------------------
+279. Alegeți ce poate fi măsurat urmare analizei anchetelor de cohortă:
+a) !incidența bolii
+b) !forţa asociației epidemiologice
+c) !impactul acţiunii factorului de risc în populaţie
+d) frecventa efectelor benefice ale medicamentului
+e) frecventa efectelor adverse ale medicamentului
+---------------------------------------------------------------------
+280. Selectați ce măsoară riscul relativ (RR) în studiile de cohortă:
+a) forța diferenței
+b) !forţa asociației
+c) diferența
+d) forța corelației
+e) forța impactului
+---------------------------------------------------------------------
+281. Precizați ce denotă riscul atribuibil (RA) în studiile de cohortă:
+a) de cîte ori este mai mare riscul bolii la expuşi faţă de neexpuşi
+b) de cîte ori este mai mic riscul bolii la expuşi faţă de neexpuşi
+c) !cu cît este mai mare riscul bolii la expuşi faţă de neexpuşi
+d) cu cât este mai mare expunerea la bolnavi față de nonbolnavi
+e) cu cât este mai mică expunerea la bolnavi față de nonbolnavi
+---------------------------------------------------------------------
+282. Selectați valorile necesare ale riscului relativ (RR) care dovedesc existența
+asociaţiei epidemiologice dintre factorul de risc şi boală:
+a) egale cu 1 și semnificativ statistic
+b) !mai mari decît 1 și semnificativ statistic
+c) mai mici decît 1 și semnificativ statistic
+d) mai mari decît 1 și nesemnificativ statistic
+e) să nu depașească intervalul [-2;2]
+---------------------------------------------------------------------
+283. Selectați afirmația corectă pentru un risc relativ (RR) egal cu 1:
+a) expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+b) expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mare
+faţă de neexpuşi
+c) !nu există nici o asociaţie între factorul de risc şi boală, pentru că riscul la expuşi şi
+neexpuşi este egal
+d) expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mare faţă de
+neexpuşi
+e) expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+---------------------------------------------------------------------
+284. Selectaţi particularităţile studiilor de cohortă de tip II:
+a) se utilizează în cazul frecvenţei înalte a factorului de risc în populaţie
+b) !se utilizează în cazul frecvenţei joase a factorului de risc în populaţie
+c) !se utilizează când expunerea afectează anumite grupuri profesionale
+d) sunt mai puţin expuse factorilor de confuzie
+e) !expuşii şi neexpuşii provin din populaţii diferite
+---------------------------------------------------------------------
+285. Selectați concluzia valabilă pentru un risc relativ (RR) mai mare decît 1:
+a) !expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mare faţă de
+neexpuşi
+b) nu există nici o asociaţie între factorul de risc şi boală, pentru că riscul la expuşi şi
+neexpuşi este egal
+c) expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+d) expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mare
+faţă de neexpuşi
+e) expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+---------------------------------------------------------------------
+286. Selectați afirmația GREȘITĂ despre studiile de cohortă:
+a) sunt forma cea mai riguroasă a studiilor analitice ne-experimentale
+b) !compară expunerea bolnavilor cu a celor sănătoşi
+c) cercetărorul observă şi nu atribuie expunerea
+d) se mai numesc studii etiologice
+e) pot fi şi retrospective
+---------------------------------------------------------------------
+287. Selectați concluzia corectă pentru un risc relativ (RR) mai mic decît 1:
+a) expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+b) !expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mic faţă de
+neexpuşi
+c) nu există nici o asociaţie între factorul de risc şi boală, pentru că riscul la expuşi şi
+neexpuşi este egal
+d) expunerea crește riscul de boală, pentru că riscul bolii la expuşi este mai mare faţă de
+neexpuşi
+e) expunerea reduce riscul de boală, pentru că riscul bolii la expuşi este mai mare
+faţă de neexpuşi ---------------------------------------------------------------------
+288. Selectați valorile indicatorilor de analiză a studiilor de cohortă, care denotă că factorul
+examinat se consideră de risc:
+a) !RR > 1, RA > 0
+b) RR >1, RA < 0
+c) RR < 1, RA < 0
+d) RR < 1, RA > 0
+e) RRR > 1, RAR > 0
+---------------------------------------------------------------------
+289. Selectaţi dezavantajele studiilor de cohortă:
+a) ineficiente în cazul expunerilor rare
+b) !necesită costuri mari pentru realizare
+c) !sunt dificil de administrat
+d) !necesită un număr mare de subiecţi pentru studiu
+e) nu permit calculul direct al incidenţei bolii
+---------------------------------------------------------------------
+290. Alegeți indicatorul utilizat pentru măsurarea forței asociației epidemiologice:
+a) !riscul relativ
+b) reducerea riscului relativ
+c) reducerea riscului absolut
+d) numărul necesar de tratat
+e) sporirea riscului absolut
+---------------------------------------------------------------------
+291. Precizați în ce se măsoară mărimile relative:
+a) în unitatea de măsură a fenomenului studiat
+b) numai în procente
+c) !în coeficienţi, procente, promile, prodecimile, prosantimile
+d) numai în promile
+e) sunt mărimi adimensionale
+---------------------------------------------------------------------
+292. Selectati afirmatia corectă despre rată:
+a) exprimă ponderea unei părți a fenomenului față de fenomenul întreg
+b) nu permite evidenţierea schimbărilor dinamice a fenomenului
+c) caracterizează raportul dintre două totalităţi independente
+d) nu permite compararea diferitor medii după nivelul fenomenului
+e) !poate fi generală și specifică
+---------------------------------------------------------------------
+293. Selectaţi rata specifică:
+a) natalitatea
+b) mortalitatea generală
+c) morbiditatea
+d) !mortalitatea infantilă
+e) fertilitatea generală
+---------------------------------------------------------------------
+294. Selectați rata generală:
+a) mortalitatea infantilă
+b) !natalitatea
+c) natalitatea pe medii rezidențiale
+d) mortalitatea pe grupe de vârstă
+e) mortalitatea prin boli cardiovasculare
+---------------------------------------------------------------------
+295. Selectati raspunsul corect cu referire la indicatorul extensiv:
+a) exprimă ponderea fenomenului faţă de mediu
+b) determină nivelul fenomenului în mediul care l-a produs
+c) caracterizează raportul cotelor a două totalităţi independente
+d) !exprimă ponderea unei părţi a fenomenului faţă de fenomenul întreg
+e) permite evidenţierea modificărilor dinamice în structura fenomenului
+---------------------------------------------------------------------
+296. Precizați ce caracterizează rata:
+a) structura fenomenului
+b) !frecvenţa fenomenului
+c) limita fenomenului
+d) tendinţa centrală a fenomenului
+e) poziţia fenomenul în mediu
+---------------------------------------------------------------------
+297. Selectaţi indicatorul statistic de raport:
+a) natalitatea pe sexe
+b) !asigurarea populaţiei cu medici
+c) structura vizitelor în Centrele de Sănătate
+d) dinamica morbidităţii pentru o perioadă de timp
+e) ponderea avorturilor după indicaţii medicale
+---------------------------------------------------------------------
+298. Precizați ce caracterizează indicatorul de proporție:
+a) !structura fenomenului
+b) frecvenţa fenomenului
+c) limita fenomenului
+d) tendinţa centrală a fenomenului
+e) poziţia fenomenul în mediu
+---------------------------------------------------------------------
+299. Rata se utilizează pentru:
+a) !evidenţierea schimbărilor dinamice în frecvenţa fenomenului
+b) determinarea structurii fenomenului în medii şi perioade de timp diferite
+c) !compararea diferitor totalităţi după frecvenţa unui fenomen
+d) determinarea frecvenţei fenomenului în alt fenomen
+e) !determinarea frecvenţei fenomenului într-un mediu
+---------------------------------------------------------------------
+300. Indicatorul statistic intensiv caracterizează:
+a) structura fenomenului
+b) !frecvenţa fenomenului
+c) limita fenomenului
+d) tendinţa centrală a fenomenului
+e) durata fenomenului
+---------------------------------------------------------------------
+301. Selectaţi afirmaţia corectă despre indicatorul de raport:
+a) se exprimă numai în procente
+b) cuantifică frecvenţa fenomenului în mediul care îl produce
+c) reprezintă cota unei părţi a fenomenului faţă de fenomenul intreg
+d) !reprezintă relaţia dintre doua totalităţi independente
+e) reprezintă relaţia dintre doua totalităţi dependente
+---------------------------------------------------------------------
+302. Selectaţi tipurile de mărimi relative:
+a) !de dinamică
+b) !de raport
+c) de variaţie
+d) !de intensitate
+e) !de structură ---------------------------------------------------------------------
+303. Indicați condițiile obligatorii pentru calcularea unei mărimi relative:
+a) !respectarea tehnicii de calcul
+b) !comparabilitatea termenilor raportului
+c) omogenitatea colectivității statistice
+d) prezența legăturii de corelație între termenii comparaţi
+e) !prezența bazei de comparaţie semnificativă pentru fenomenul analizat
+---------------------------------------------------------------------
+304. Precizați ce caracterizează o rată:
+a) !intensitatea fenomenului
+b) variabilitatea fenomenului
+c) !nivelul fenomenului
+d) !răspândirea fenomenului
+e) omogenitatea fenomenului
+---------------------------------------------------------------------
+305. Selectaţi afirmaţiile corecte cu privire la rată:
+a) caracterizează raportul dintre două totalităţi independente
+b) !permite compararea diferitor medii după nivelul fenomenului
+c) exprimă ponderea unei părţi a fenomenului faţă de întregul fenomen
+d) !permite evidenţierea schimbărilor dinamice a fenomenului
+e) !poate fi generală si specială
+---------------------------------------------------------------------
+306. Selectați tipurile posibile de rate:
+a) !specifice
+b) !standardizate
+c) !brute
+d) !globale
+e) armonizate
+---------------------------------------------------------------------
+307. Care afirmaţii sunt valabile pentru rata standardizată:
+a) !este o rată fictivă
+b) este o rată veridică
+c) !se utilizează numai în comparaţii
+d) înlătură influenţa asemănărilor esenţiale
+e) !înlătură influenţa diferenţelor structurale ---------------------------------------------------------------------
+308. Selectaţi afirmaţiile corecte referitor la rata specifică:
+a) nu pierde din vedere „întregul"
+b) se aplică pe populaţii omogene
+c) !se utilizează mult în studiile epidemiologice
+d) !se aplică pe subpopulaţii omogene
+e) !pierde din vedere „întregul"
+---------------------------------------------------------------------
+309. Selectaţi afirmaţiile corecte despre indicatorul extensiv:
+a) este un indicator cu caracter dinamic
+b) !nu face asociere între mediu şi fenomen
+c) !exprimă ponderea unei părţi a fenomenului faţă de fenomenul întreg
+d) se utilizează numai pentru analiza dinamicii fenomenului
+e) !nu permite evaluarea modificărilor dinamice ale fenomenului
+---------------------------------------------------------------------
+310. Selectaţi afirmaţiile corecte despre indicatorul de raport:
+a) de regulă se utilizează pentru a caracteriza structura asigurării populaţiei cu resurse
+b) !este similar cu indicatorul intensiv numai după tehnica de calcul
+c) !mai frecvent se utilizează pentru a caracteriza nivelul asigurării populaţiei cu
+resurse
+d) este similar cu indicatorul intensiv după tehnica de calcul şi după esenţă
+e) !reprezintă raportul a două totalităţi independente
+---------------------------------------------------------------------
+311. Selectaţi tipurile de mărimi utilizate în cercetarea ştiinţifică:
+a) discrete
+b) !absolute
+c) !relative
+d) aproximale
+e) !medii
+---------------------------------------------------------------------
+312. Selectați marimile care pot reprezenta un indicator statistic:
+a) !relative de tip rată
+b) !medii
+c) absolute
+d) !relative de raport
+e) !relative de tip proporție
+---------------------------------------------------------------------
+313. Selectaţi tipurile de mărimi relative:
+a) !rata
+b) dominanta
+c) !raportul
+d) !proporţia
+e) media
+---------------------------------------------------------------------
+314. Selectaţi indicatorul de proporţie:
+a) !cota nou-nascuţilor de sex masculin
+b) asigurarea populaţiei cu medici
+c) !structura mortalităţii pe medii de resedinţă
+d) dinamica morbidităţii pentru o perioadă de timp
+e) !ponderea avorturilor după indicaţii medicale
+---------------------------------------------------------------------
+315. Selectaţi ratele generale:
+a) !natalitatea
+b) !mortalitatea generală
+c) mortalitatea maternă
+d) mortalitatea infantilă
+e) !morbiditatea generală
+---------------------------------------------------------------------
+316. Selectați afirmaţiile corecte despre indicatorul intensiv:
+a) !este un indicator cu caracter dinamic
+b) !face asociere între mediu şi fenomen
+c) exprimă ponderea unei părţi a fenomenului faţă de fenomenul întreg
+d) nu face asociere între mediu şi fenomen
+e) !poate fi brut şi standardizat
+---------------------------------------------------------------------
+317. Selectați cauza omogenității termenilor seriei de variaţie:
+a) valoarea înregistrată la celelalte unităţi
+b) !acţiunea factorilor esenţiali comuni
+c) acţiunea factorilor întâmplători
+d) numărul cazurilor înregistrate
+e) tipul variabilei studiate
+---------------------------------------------------------------------
+318. Selectați cauza variabilității valorilor individuale într-o serie de distribuție:
+a) !acţiunea factorilor întâmplători
+b) numărul cazurilor înregistrate
+c) tipul variabilei studiate
+d) valoarea înregistrată la celelalte unităţi
+e) acţiunea factorilor esenţiali comuni
+---------------------------------------------------------------------
+319. Precizați cauza care determină forma distribuţiei valorilor individuale în seria de
+variaţie:
+a) tipul variabilei studiate
+b) acţiunea factorilor întâmplători
+c) !acţiunea combinată a factorilor esenţiali şi întâmplători
+d) valoarea înregistrată la celelalte unităţi
+e) acţiunea factorilor esenţiali
+---------------------------------------------------------------------
+320. Selectați definiția corectă a seriei de variaţie:
+a) !şir de valori numerice ale caracteristicii studiate, diferite ca valoare individuală şi
+dispuse într-o ordine anumită
+b) şir de valori numerice ale fenomenului studiat, diferite ca valoare agregată şi dispuse
+într-o ordine anumită
+c) şir de valori nominative ale caracteristicii studiate, diferite ca valoare individuală şi
+dispuse într-o ordine anumită
+d) şir de valori numerice ale unităţii studiate, diferite ca valoare individuală şi dispuse
+într-o ordine anumită
+e) şir de valori numerice ale indicatorului studiat, diferite ca valoare individuală şi dispuse
+într-o ordine anumită
+---------------------------------------------------------------------
+321. Selectați consecința stabilirii unui număr prea mic de grupe în seria de variaţie:
+a) evidenţierea trăsăturilor esenţiale ale colectivităţii
+b) !ştergerea trăsăturilor esenţiale ale colectivităţii
+c) fărâmiţarea colectivităţii
+d) sporirea dificultății calculelor statistice ulterioare
+e) sporirea calității concluziilor
+---------------------------------------------------------------------
+322. Selectați afirmația GREȘITĂ despre mediană:
+a) se numeşte quartila a doua
+b) se utilizează pentru descrierea variabilelor calitative
+c) !este influenţată de valorile extreme ale distribuției
+d) înlocuiește media aritmetică în cazul distribuțiilor asimetrice
+e) se mai numeşte „medie de poziţie"
+---------------------------------------------------------------------
+323. Selectați forma distribuției vârstei intr-o grupă de studenţi, unde vârsta medie este de 22,4 ani,
+iar cea modală – 21 de ani:
+a) simetrică
+b) !asimetrică pozitivă
+c) bimodală
+d) asimetrică negativă
+e) alternativă
+---------------------------------------------------------------------
+324. Selectați tipul asimetriei în cazul coeficientui de asimetrie Pearson egal cu -0,48:
+a) !asimetrică negativă
+b) asimetrică pozitivă
+c) bimodală negativă
+d) simetrică pozitivă
+e) simetrică negativă
+---------------------------------------------------------------------
+325. Selectați tipul asimetriei dacă valoarea coeficientului de asimetrie Pearson este 0,77:
+a) bimodală negativă
+b) simetrică negativă
+c) !asimetrică pozitivă
+d) simetrică pozitivă
+e) asimetrică negativă
+---------------------------------------------------------------------
+326. Selectaţi formula corectă de calcul a coeficientului de asimetrie Pearson:
+a) !Cas = Xar - Mo/σ
+b) Cas = Xar - Me/ σ
+c) Cas = Mo - Xar/ σ
+d) Cas = Me - Xar / σ
+e) Cas = Xar - Mo/ Xar
+---------------------------------------------------------------------
+327. Selectaţi mărimile medii de poziţie:
+a) !mediana
+b) media aritmetică
+c) !dominanta
+d) amplitudinea
+e) !modulul
+---------------------------------------------------------------------
+328. Precizați indicatorul care redă esenţialul într-o colectivitate statistică:
+a) coeficientul de variaţie
+b) mediana
+c) modulul
+d) !media aritmetică
+e) dispersia
+---------------------------------------------------------------------
+329. Selectaţi afirmaţiile corecte pentru gruparea pe intervale a seriei de variaţie:
+a) !permite restrângerea volumului mare de date iniţiale
+b) nu evidenţiază structura colectivităţii cercetate
+c) !evidenţiază structura colectivităţii cercetate
+d) permite păstrarea informaţiilor iniţiale
+e) !scoate în evidenţă proprietăţile esenţiale ale colectivităţii ---------------------------------------------------------------------
+330. Indicați consecinţele stabilirii unui număr prea mare de grupe în seria de variaţie:
+a) ştergerea trăsăturilor esenţiale ale colectivităţii
+b) !fărâmiţarea colectivităţii
+c) !evidenţierea dificilă a trăsăturilor esenţiale ale colectivităţii
+d) !sporirea gradului de dificultate a calculelor statistice ulterioare
+e) micșorarea gradului de dificultate a calculelor statistice ulterioare
+---------------------------------------------------------------------
+331. Identificaţi operaţiunile de grupare a seriilor de variaţie:
+a) stabilirea numărului de unităţi de observaţie
+b) !stabilirea numărului de grupe
+c) calcularea mărimii intervalului de amplitudine
+d) !calcularea mărimii intervalului de grupare
+e) !repartizarea valorilor individuale ale caracteristicii în grupe
+---------------------------------------------------------------------
+332. Selectați tipurile de reprezentări grafice valabile pentru seria de variaţie:
+a) historiograma
+b) !poligonul de frecvenţe
+c) !histograma
+d) poligonul de proporţii
+e) cronograma
+---------------------------------------------------------------------
+333. Selectați afirmațiile valabile pentru mărimea medie:
+a) !defineşte cel mai bine tendinţa centrală a unei distribuţii
+b) defineşte cel mai bine variaţia unei distribuţii
+c) !nivelează variaţiile valorilor individuale
+d) evidenţiază variaţiile valorilor individuale
+e) !exprimă sintetic esenţialul unui fenomen
+---------------------------------------------------------------------
+334. Selectați cerințele inaintate unei medii:
+a) !să nu fie sensibilă la fluctuaţiile de selecţie
+b) !să fie definită în mod precis
+c) să posede proprietăţi clare numai pentru specialişti
+d) să fie sinteza majorităţii observaţiilor înregistrate
+e) !să fie independentă de dorinţa utilizatorului
+---------------------------------------------------------------------
+335. Precizați cerințele pe care trebuie să le satisfacă o medie:
+a) !să fie expresia tuturor observaţiilor înregistrate
+b) !să fie simplu şi rapid de calculat
+c) !să posede proprietăţi clare chiar şi pentru nespecialişti
+d) să fie dependentă de dorinţa utilizatorului
+e) !să fie puţin sensibilă la fluctuaţiile de selecţie
+---------------------------------------------------------------------
+336. Selectați afirmațiile corecte despre media aritmetică:
+a) suma abaterilor individuale de la medie este egală cu zero, indiferent de tipul distribuţiei
+b) nu este influenţată de valorile aberante
+c) !aceleași rezultate prin diferite formule de calcul
+d) !nu este obligatoriu să coincidă cu vreo valoare individuală înregistrată
+e) !este unică intr-o serie de variație
+---------------------------------------------------------------------
+337. Selectaţi proprietăţile mediei aritmetice:
+a) !se exprimă în unitatea de măsură a caracteristicii studiate
+b) poate fi calculată şi pentru variabile calitative
+c) obligator coincide cu o valoare individuală înregistrată
+d) !este sensibilă la valorile extreme
+e) nu are unitate de măsură
+---------------------------------------------------------------------
+338. Selectați componentele formulei mediei aritmetice ponderate:
+a) !valoarea individuală
+b) !numărul de cazuri
+c) numărul de grade de libertate
+d) !frecvenţele de apariţie a valorilor individuale
+e) numărul de cazuri minus unu
+---------------------------------------------------------------------
+339. Selectati afirmaţiile corecte despre mediană:
+a) este influenţată de valorile extreme ale distribuției
+b) !substituie media in distribuțiile asimetrice
+c) !este un parametru uzual pentru scala ordinală
+d) !se plasează la mijlocul seriei de variaţie
+e) se mai numeşte „modul de poziţie"
+---------------------------------------------------------------------
+340. Selectați domeniile de utilizare a medianei:
+a) !caracterizarea tendinţei centrale în cazul distribuţiilor vădit asimetrice
+b) !determinarea valorii medii în serii formate din valori calitative
+c) !determinarea valorii medii în serii cu intervale neegale de grupare
+d) caracterizarea obligatorie a tendinţei centrale în cazul distribuţiilor simetrice
+e) !stabilirea dozelor letale
+---------------------------------------------------------------------
+341. Selectați afirmațiile GREȘITE despre modul:
+a) pe graficul repartiţiei corespunde punctului maxim al acestuia
+b) preferat mediei în industria confecţiilor
+c) !inutil pentru caracterizarea distribuţiei asimetrice
+d) !inutil pentru caracterizarea distribuției variabilelor calitative
+e) inutil pentru stabilirea dozelor letale
+---------------------------------------------------------------------
+342. Selectaţi afirmațiile corecte cu privire la dominantă:
+a) !poate fi calculată pe scala nominală
+b) !este utilă pentru caracterizarea distribuţiei asimetrice
+c) !este valoarea individuală cu cea mai mare frecvenţă
+d) inutilă pentru caracterizarea distribuției simetrice
+e) nu poate fi calculată pe scala de interval
+---------------------------------------------------------------------
+343. Selectați afirmațiile corecte despre distribuţia perfect simetrică:
+a) !media este egală cu cuartila a doua
+b) !modulul este egal cu media
+c) !media este egală cu dominanta
+d) !mediana este egală cu media
+e) modulul este mai mic decât mediana
+---------------------------------------------------------------------
+344. Selectați afirmațiile valabile pentru analiza formei de distribuţie:
+a) !în cazul asimetriei pozitive predomină valorile mici ale caracteristicii
+b) !distribuţia perfect simetrică este caracterizată prin egalitatea dintre medie,
+mediană şi modul
+c) !pentru distribuţia asimetrică negativă este specifică predominarea
+valorilor mari ale caracteristicii
+d) în cazul asimetriei pozitive predomină valorile mari ale caracteristicii
+e) în cazul asimetriei negative predomină valorile mici ale caracteristicii
+---------------------------------------------------------------------
+345. Selectați probabilitatea maximă a unei persoane de a avea valoarea IQ-ului între 131 și
+145, dacă IQ-ul mediu al populației este 100 și deviația standard – 15.
+a) 13,6%
+b) 6,42%
+c) !2,14%
+d) 4,28%
+e) 12,84%
+---------------------------------------------------------------------
+346. Precizați relațiile existente intr-o distribuţie asimetrică pozitivă:
+a) !media este mai mare decât mediana
+b) !media este mai mare decât cuartila a doua
+c) !dominanta este mai mică decât media
+d) media este egală cu modulul
+e) !media este mai mare decât modulul
+---------------------------------------------------------------------
+347. Precizați relațiile existente intr-o distribuţie asimetrică negativă:
+a) media este mai mare decât mediana
+b) !media este mai mică decât cuartila a doua
+c) !dominanta este mai mare decât media
+d) !media este mai mică decât mediana
+e) media este mai mare decât modulul
+---------------------------------------------------------------------
+348. Selectați afirmațiile valide pentru distribuţia perfect simetrică:
+a) !media este egală cu mediana şi modulul
+b) !graficul are formă „de clopot"
+c) !frecvenţele se distribuie simetric la dreapta şi la stânga valorii centrale
+d) !repartiţia corespunde curbei Gauss-Laplace
+e) acţiunea factorilor întâmplători are caracter neregulat
+---------------------------------------------------------------------
+349. Selectaţi afirmaţiile corecte despre decile şi centile:
+a) !sunt utilizaţi îndeosebi pentru serii pronunţat asimetrice
+b) !se calculează doar pentru serii cu amplitudine mare a variaţiei
+c) sunt utilizaţi îndeosebi pentru serii simetrice
+d) !se calculează doar pentru serii statistice cu număr mare de grupe
+e) se calculează doar pentru serii statistice cu număr mic de grupe
+---------------------------------------------------------------------
+350. Selectaţi afirmaţia corectă referitor la amplitudinea absolută a variaţiei (A):
+a) este un indicator relevant al variaţiei
+b) nu are formă concretă de exprimare
+c) !are formă concretă de exprimare
+d) este raportul dintre abaterea pătratică şi nivelul mediu al seriei
+e) este raportul dintre amplitudinea relativă şi media aritmetică
+---------------------------------------------------------------------
+351. Selectați afirmația greșită despre dispersie:
+a) nu are formă concretă de exprimare
+b) !se mai numeşte abatere standard sau abatere tip
+c) este indicator cu valoare teoretică
+d) este indicator util pentru testarea ipotezelor statistice
+e) este o mărime abstractă
+---------------------------------------------------------------------
+352. Selectați afirmaţia corectă despre abaterea medie pătratică:
+a) este direct proporţională cu omogenitatea colectivităţii studiate
+b) ţine seama numai de valorile extreme
+c) !exprimă cu cât se abate, în mediu, fiecare valoare individuală de la media
+valorilor
+d) permite compararea variaţiei a două populaţii care se exprimă în unităţi de măsură
+diferite
+e) nu are formă concretă de exprimare
+---------------------------------------------------------------------
+353. Identificaţi dezavantajul abaterii medii pătratice:
+a) reprezintă un parametru al legii distribuţiei normale
+b) !se măsoară în unitatea de măsură a caracteristicii studiate
+c) nu poate fi folosită pentru stabilirea volumului eşantionului
+d) nu se utilizează în calcule de corelaţie
+e) nu pune în evidenţă influenţa abaterilor mari
+---------------------------------------------------------------------
+354. Selectați indicatorul invers proporțional coeficientului de variație:
+a) abaterea medie pătratică
+b) dispersia
+c) !media aritmetică
+d) abaterea medie lineară
+e) amplitudinea variaţiei
+---------------------------------------------------------------------
+355. Precizați câte procente din populație vor avea IQ-ul în intervalul valoric 90-110, dacă IQ-ul
+mediu al populației este 100 și abaterea standard – 10:
+a) 75,45%
+b) 76,26%
+c) 95,45%
+d) 66,28%
+e) !68,26%
+---------------------------------------------------------------------
+356. Selectați indicatorul util pentru măsurarea gradului de omogenitate a unei colectivităţi
+statistice:
+a) coeficientul de corelaţie
+b) media aritmetică
+c) abaterea individuală
+d) !coeficientul de variaţie
+e) mediana
+---------------------------------------------------------------------
+357. Precizați intervalul valoric considerat normal pentru cercetările experimentale:
+a) media ± 2σ
+b) !media ± 3 σ
+c) media ± 2,5 σ
+d) media ± 1 σ
+e) media ± 1,5 σ
+---------------------------------------------------------------------
+358. Precizați intervalul valoric considerat normal pentru cercetările clinice:
+a) media ± 1 σ
+b) media ± 2,5 σ
+c) media ± 3 σ
+d) media ± 1,5 σ
+e) !media ± 2 σ
+---------------------------------------------------------------------
+359. Selectaţi afirmaţiile corecte referitor la amplitudinea absolută a variaţiei (A):
+a) !se mai numeşte câmp de variaţie
+b) !se bazează numai pe valorile extreme ale seriei
+c) se bazează pe toate valorile seriei
+d) nu este sensibilă la valorile aberante
+e) este un indicator cu semnificaţie sporită
+---------------------------------------------------------------------
+360. Selectaţi afirmaţiile corecte referitor la amplitudinea absolută a variaţiei (A):
+a) !măsoară distanţă dintre capetele seriei statistice
+b) este un indicator adimensional
+c) !se utilizează pentru stabilirea mărimii intervalului de grupare în seria de variaţie
+d) nu este influenţată de valorile extreme
+e) !este un indicator cu semnificație redusă
+---------------------------------------------------------------------
+361. Selectaţi particularităţile abaterii individuale de la medie:
+a) oferă informaţii la nivel populaţional
+b) !oferă informaţii la nivel individual
+c) !nu măsoară variaţia totala
+d) !este un indicator cu semnificație redusă
+e) măsoară variaţia totală a caracteristicii
+---------------------------------------------------------------------
+362. Selectaţi afirmaţiile corecte despre dispersie:
+a) !se mai numeşte varianţă sau moment centrat de gradul doi
+b) !măsoară variaţia totală a unei caracteristici
+c) se exprimă în unitatea de măsură a caracteristicii cercetate
+d) !se foloseşte ca bază de calcul pentru media pătratică
+e) !este sensibilă la prezenţa valorilor extreme
+---------------------------------------------------------------------
+363. Selectaţi afirmaţiile corecte referitor la abaterea medie pătratică:
+a) permite compararea variaţiei a două populaţii care se exprimă în unităţi de măsură
+diferite
+b) !permite compararea variaţiei a două populaţii care se exprimă în aceeaşi unitate de
+măsură
+c) !este invers proporţională cu omogenitatea eşantionului
+d) !verifică reprezentativitatea mediei aritmetice
+e) este indicator simplu al variaţiei
+---------------------------------------------------------------------
+364. Selectați afirmațiile greșite despre coeficientul de variaţie:
+a) !este un indicator simplu al variaţiei
+b) este expresia relativă a abaterii standard
+c) !valorile mici ale coeficientului reflectă neomogenitatea colectivităţii
+d) !arată cu cât este mai mare abaterea standard faţă de media aritmetică
+e) permite compararea variaţiei a două populaţii care se exprimă în unităţi de măsură
+diferite
+---------------------------------------------------------------------
+365. Selectaţi particularităţile variabilei standardizate:
+a) !exprimă poziţia unităţii statistice faţă de medie şi faţă de împrăştiere
+b) !permite compararea mărimilor provenite din distribuţii diferite
+c) !se mai numeşte abatere normată
+d) este independentă de valoarea abaterii standard
+e) exprimă poziţia unităţii statistice numai faţă de împrăştiere
+---------------------------------------------------------------------
+366. Selectați ce denotă valorile coeficientului de variaţie peste ± 35%:
+a) dispersie mare a datelor
+b) !omogenitate a eşantionului
+c) !heterogenitate a eşantionului
+d) !imposibilitatea generalizării rezultatelor
+e) împrăştiere mică a datelor
+---------------------------------------------------------------------
+367. Selectați afirmațiile corecte referitor la coeficientul de variaţie:
+a) este direct proporţional cu media aritmetică
+b) !este direct proporţional cu abaterea standard
+c) !este invers proporţional cu media aritmetică
+d) !se exprimă numai în procente
+e) poate fi exprimat în procente şi coeficienţi
+---------------------------------------------------------------------
+368. Selectați componentele formulei de calcul a abaterii standard în eşantion:
+a) !volumul colectivităţii selective
+b) volumul colectivităţii generale
+c) !abaterile valorilor individuale de la medie
+d) abaterile individuale ale valorilor medii de la medie
+e) !frecvenţele de apariţie a valorilor individuale
+---------------------------------------------------------------------
+369. Selectați afirmaţia corectă despre eroarea de tip II:
+a) acceptarea ipotezei nule adevărate
+b) respingerea ipotezei nule false
+c) !acceptarea ipotezei nule false
+d) acceptarea ipotezei alternative adevărate
+e) respingerea ipotezei alternative false
+---------------------------------------------------------------------
+370. Selectați afirmaţia corectă despre eroarea de tip I:
+a) acceptarea ipotezei nule adevărate
+b) !respingerea ipotezei nule adevărate
+c) acceptarea ipotezei nule false
+d) acceptarea ipotezei alternative adevărate
+e) respingerea ipotezei nule false
+---------------------------------------------------------------------
+371. Precizați ce reprezintă pragul de semnificaţie al studiului:
+a) !probabilitatea de a comite eroarea de tip I
+b) probabilitatea de a comite eroarea de tip II
+c) probabilitatea de a comite concomitent eroarea de tip I şi II
+d) probabilitatea de a nu comite eroarea de tip I
+e) probabilitatea de a nu comite eroarea de tip II
+---------------------------------------------------------------------
+372. Selectați varianta corectă de răspuns pentru nivelul beta al studiului:
+a) probabilitatea de a comite eroarea de tip I
+b) !probabilitatea de a comite eroarea de tip II
+c) probabilitatea de a nu comite eroarea de tip II
+d) probabilitatea de a comite concomitent eroarea de tip I şi II
+e) probabilitatea de a nu comite eroarea de tip I
+---------------------------------------------------------------------
+373. Selectati afirmatia corectă pentru notiunea „puterea studiului”:
+a) !probabilitatea de a găsi o diferenţă, care într-adevăr există
+b) probabilitatea de a găsi o diferenţă, care într-adevăr nu există
+c) probabilitatea de a nu găsi nici o diferenţă, care într-adevăr nu există
+d) probabilitatea de a nu găsi o diferenţă, care într-adevăr există
+e) probabilitatea de a măsura diferenţa, care într-adevăr există
+---------------------------------------------------------------------
+374. Precizați denumirea corectă a multiplului erorii standard, care determină mărimea intervalului
+de confidenţă:
+a) !test de semnificaţie
+b) interval de semnificaţie
+c) nivel de confidență
+d) nivel de semnificaţie
+e) prag de semnificaţie
+---------------------------------------------------------------------
+375. Cum se se consideră eroarea standard procentuală cu valoarea mai mică de 1%:
+a) !acceptabilă
+b) inacceptabilă
+c) dubioasă
+d) moderată
+e) accentuată
+---------------------------------------------------------------------
+376. Selectați una din componentele necesare de cunoscut pentru aplicarea testului Student:
+a) !mediile sau probabilităţile comparate
+b) pragul de semnificaţie
+c) erorile standarde procentuale
+d) erorile maxime admise
+e) testul de semnificaţie
+---------------------------------------------------------------------
+377. Selectați cazurile de utilizare ale testului Student:
+a) pentru determinarea corelaţiei dintre două medii
+b) !pentru aprecierea semnificaţiei diferenţei dintre două medii
+c) pentru aprecierea semnificaţiei diferenţei dintre două mărimi absolute
+d) pentru aprecierea variaţiei unui fenomen
+e) pentru aprecierea valorii erorii testului de semnificaţie
+---------------------------------------------------------------------
+378. Precizați ce ce trebuie de făcut pentru a reduce eroarea standard de două ori:
+a) volumul eşantionului trebuie mărit de două ori
+b) volumul eşantionul nu se va modifica
+c) !volumul eşantionul trebuie mărit de patru ori
+d) volumul eşantionul trebuie mărit de trei ori
+e) volumul eşantionului trebuie micşorat de patru ori
+---------------------------------------------------------------------
+379. Selectați afirmațiile corecte despre eroarea de tip I:
+a) !este probabilitatea respingerii ipotezei nule adevărate
+b) este probabilitatea acceptării ipotezei nule false
+c) este probabilitatea respingerii ipotezei alternative adevărate
+d) !este probabilitatea acceptării ipotezei alternative false
+e) este probabilitatea respingerii ipotezei nule false
+---------------------------------------------------------------------
+380. Selectați afirmațiile corecte despre eroarea de tip II:
+a) este probabilitatea respingerii ipotezei nule false
+b) !este probabilitatea respingerii ipotezei alternative adevărate
+c) !este probabilitatea acceptarii ipotezei nule false
+d) este probabilitatea respingerii ipotezei nule adevărate
+e) este probabilitatea acceptării ipotezei alternative false
+---------------------------------------------------------------------
+381. Selectați componentele formulei de calcul a erorii standard pentru variabilele calitative:
+a) abaterea medie pătratică
+b) !probabilitatea producerii evenimentului în eşantion
+c) !probabilitatea lipsei evenimentului în eşantion
+d) !volumul eşantionului
+e) pragul de semnificaţie
+---------------------------------------------------------------------
+382. Selectați componentele formulei de calcul a erorii standard pentru variabilele cantitative:
+a) probabilitatea producerii evenimentului în eşantion
+b) pragul de semnificaţie
+c) !volumul eşantionului
+d) !abaterea medie pătratică
+e) probabilitatea lipsei evenimentului în eşantion
+---------------------------------------------------------------------
+383. Selectaţi afirmaţia corectă referitor la intervalul de confidenţă:
+a) este intervalul valoric, determinat cu ajutorul erorii standard, în care se vor situa parametrii de
+eșantion
+b) !este intervalul valoric, determinat cu ajutorul erorii standard, în care se vor afla
+parametrii populației statistice
+c) este intervalul valoric, determinat cu ajutorul erorii standard, în care nu se vor afla parametrii
+populației statistice
+d) este intervalul valoric, determinat cu ajutorul erorii standard procentuale, în care se vor
+afla parametrii de eșantion
+e) este intervalul valoric, determinat cu ajutorul abaterii standard, în care se vor afla parametrii
+populației statistice
+---------------------------------------------------------------------
+384. Selectați afirmațiile corecte despre intervalul de confidenţă:
+a) !este dependent de mărimea erorii standard
+b) este direct proporţional cu mărimea pragului de semnificaţie
+c) !este direct proporţional cu mărimea testului de semnificaţie
+d) !este direct proporţional cu mărimea nivelului de încredere
+e) este independent de mărimea erorii standard
+---------------------------------------------------------------------
+385. Selectați denumirea corectă a probabilității de situare a parametrilor populației statistice în
+afara intervalului de confidenţă:
+a) test de semnificaţie
+b) !prag de semnificaţie
+c) nivel de variație
+d) interval de confidență
+e) nivel de confidență
+---------------------------------------------------------------------
+386. Selectați valorile pragurilor de semnificație utilizate în cercetările medicale:
+a) !0,05
+b) 0,27
+c) !0,01
+d) 0,1
+e) !0,001
+---------------------------------------------------------------------
+387. Selectați afirmațiile corespunzătoare datelor statistice de tip „pereche”:
+a) !sunt rezultatul măsurării repetate ale parametrilor la aceeași subiecți
+b) sunt rezultatul măsurării repetate ale parametrilor la diferiți subiecți
+c) !sunt rezultatul măsurării repetate ale parametrilor la subiecți selectați prin metoda
+perechilor
+d) !sunt rezultatul măsurării repetate ale parametrilor la părinți și copii
+e) sunt rezultatul măsurării repetate ale parametrilor la profesori și studenți
+---------------------------------------------------------------------
+388. Selectați testele statistice neparametrice:
+a) !Wilcoxon
+b) Fischer-Snedecor
+c) !Mann-Whitney
+d) Student
+e) ANOVA
+---------------------------------------------------------------------
+389. Identificați testele statistice parametrice:
+a) !ANOVA
+b) Wilcoxon
+c) !Fischer-Snedecor
+d) Mann-Whitney
+e) !Student
+---------------------------------------------------------------------
+390. Selectaţi condiţiile de utilizare a testelor parametrice:
+a) !distribuția de eșantion respectă distribuţia normală
+b) !normalitatea distribuţiei de eșantion poate fi testată
+c) distribuția de eșantion nu respectă distribuţia normală
+d) !necesită cunoașterea valorilor mediei și abaterii standard
+e) nu necesită cunoașterea valorilor mediei și abaterii standard
+---------------------------------------------------------------------
+391. Selectaţi condiţiile de utilizare a testelor neparametrice:
+a) !distribuția de eșantion nu respectă distribuţia normală
+b) !normalitatea distribuţiei de eșantion nu poate fi testată
+c) distribuția de eșantion respectă distribuţia normală
+d) necesită cunoașterea valorilor mediei și abaterii standard
+e) !nu necesită cunoașterea valorilor mediei și abaterii standard
+---------------------------------------------------------------------
+392. Selectaţi afirmaţiile corecte referitor la testul χ2:
+a) poate fi utilizat numai pentru un eșantion
+b) !poate fi utilizat pentru variabile masurate pe scala ordinală
+c) poate fi utilizat pentru variabile măsurate pe scala de raport
+d) !poate fi utilizat pentru unu, două și mai mult de doua eşantioane
+e) poate fi utilizat numai pentru două eşantioane
+---------------------------------------------------------------------
+393. Selectaţi afirmaţiile corecte referitor la testul χ2:
+a) poate fi utilizat pentru date normal distribuite
+b) poate fi utilizat pentru date pereche
+c) este un test parametric robust
+d) !poate fi utilizat pentru analiza variabilelor calitative alternative
+e) !poate fi utilizat pentru datele măsurate pe scala nominală
+---------------------------------------------------------------------
+394. Selectați afirmațiile corecte referitor la testul Mann-Witney:
+a) !este unul din cele mai puternice teste neparametrice
+b) este unul din cele mai puternice teste parametrice
+c) poate fi utilizat numai în eşantioane mari
+d) !necesită numai măsurători de tip rang
+e) !nu este interesat de normalitatea distribuţiei datelor
+---------------------------------------------------------------------
+395. Selectaţi conceptele, utilizate în testarea semnificaţiei mărimilor relative şi medii:
+a) !eroarea standard şi intervalul de încredere
+b) eroarea standard şi amplitudinea relativă
+c) !testul de semnificaţie şi pragul de semnificaţie
+d) !eroarea standard şi eroarea limită
+e) !nivelul de semnificaţie şi nivelul de încredere
+---------------------------------------------------------------------
+396. Selectați modalitățile de creştere a exactităţii estimărilor:
+a) !creşterea omogenitătii totalităţii statistice
+b) !mărirea volumului colectivităţii supuse studiului
+c) !micşorarea valorii erorii standard
+d) creşterea valorii pragului de semnificaţie
+e) creşterea valorii abaterii standard
+---------------------------------------------------------------------
+397. Selectați afirmațiile corecte cu privire la datele statistice independente:
+a) sunt rezultatul măsurării repetate ale parametrilor la aceeași subiecți
+b) !sunt rezultatul măsurării repetate ale parametrilor la diferiți subiecți
+c) sunt rezultatul măsurării repetate ale parametrilor la subiecți selectați prin metoda
+perechilor
+d) sunt rezultatul măsurării repetate ale parametrilor la părinți și copii
+e) !sunt rezultatul măsurării repetate ale parametrilor la profesori și studenți
+---------------------------------------------------------------------
+398. Selectați testul potrivit pentru determinarea legăturii dintre calificativul semestrial acordat și
+nota la examen:
+a) coeficientul de asociere Yulle
+b) coeficientul de corelație Mann-Whitney
+c) coeficientul de corelație Student
+d) coeficientul de corelație Pearson
+e) !coeficientul de corelație Spearman
+---------------------------------------------------------------------
+399. Selectaţi afirmaţia greșită referitor la graficul de corelaţie:
+a) are aspectul unui nor de puncte
+b) se mai numeşte şi corelogramă
+c) !arată forma şi intensitatea precisă a legăturii
+d) indică existenţa sau lipsa legăturii
+e) arată sensul şi intensitatea aproximativă a legăturii
+---------------------------------------------------------------------
+400. Urmare testării semnificaţiei coeficientului de corelaţie a fost obținută valoarea t=3,46,
+valoarea critică t pentru p<0,05 fiind 2,06. Selectați concluzia corectă:
+a) coeficientul de corelaţie este nesemnificativ
+b) coeficientul de corelaţie este dubios
+c) !coeficientul de corelaţie este semnificativ
+d) coeficientul de corelaţie este important
+e) coeficientul de corelaţie este neimportant
+---------------------------------------------------------------------
+401. Selectați caracteristicile corelogramei în cazul legăturii de corelaţie directe:
+a) norul de puncte se dispune fuziform, oblic de sus în jos
+b) !norul de puncte se dispune fuziform, oblic de jos în sus
+c) !norul de puncte se dispune fuziform, oblic de la stânga la dreapta
+d) norul de puncte se dispune fuziform, oblic de la dreapta la stânga
+e) punctele se dispun pe toată reţeaua grafică
+---------------------------------------------------------------------
+402. Selectați indicatorul recomandat pentru aprecierea legăturilor de corelaţie liniare:
+a) raportul de corelaţie
+b) coeficientul de convergenţă
+c) !coeficientul de corelaţie
+d) coeficientul de regresie
+e) coeficientul de variaţie
+---------------------------------------------------------------------
+403. Selectați indicatorul recomandat pentru aprecierea legăturilor de corelaţie neliniare:
+a) !raportul de corelaţie
+b) raportul de convergenţă
+c) coeficientul de corelaţie
+d) raportul de regresie
+e) raportul de variaţie
+---------------------------------------------------------------------
+404. Precizați ce denotă valoarea coeficientului de corelaţie „±1”:
+a) corelaţie slabă între fenomene
+b) !corelaţie perfectă între fenomene
+c) corelaţie puternică între fenomene
+d) corelaţie medie între fenomene
+e) corelaţie relativă între fenomene
+---------------------------------------------------------------------
+405. Alegeţi afirmaţia greșită despre coeficientul de corelaţie liniară:
+a) este un indicator sintetic al intensităţii legăturii dintre două fenomene
+b) are valori cuprinse în intervalul [-1,1]
+c) poate fi calculat numai pentru caracteristici cantitative
+d) !este semnificativ în cazul legăturilor neliniare
+e) este semnificativ în cazul legăturilor liniare
+---------------------------------------------------------------------
+406. Selectați testul potrivit pentru determinarea legăturii dintre vârsta de gestație și
+greutatea la naștere:
+a) coeficientul de asociere Yulle
+b) coeficientul de corelație Mann-Whitney
+c) coeficientul de corelație Student
+d) !coeficientul de corelație Pearson
+e) coeficientul de corelație Spearman
+---------------------------------------------------------------------
+407. Selectați tipurile de corelație după natura relaţiei de cauzalitate:
+a) liniare
+b) !funcţionale
+c) directe
+d) !statistice
+e) inverse
+---------------------------------------------------------------------
+408. Selectați tipurile de corelație după formă legătura de corelaţie:
+a) !liniară
+b) pozitivă
+c) negativă
+d) !curbilinie
+e) directă
+---------------------------------------------------------------------
+409. Selectați afirmațiile valabile pentru corelaţiile statistice:
+a) !sunt vremelnice
+b) !pot fi numai într-un singur sens
+c) sunt permanente
+d) !unei valori numerice a variabilei X corespunde o medie a valorilor variabilei Y
+e) unei valori numerice a variabilei X îi corespunde strict o valoare a variabilei Y
+---------------------------------------------------------------------
+410. Selectați testul potrivit pentru determinarea legăturii dintre gravitatea pneumoniei și
+numărul de complicații ale acestea:
+a) coeficientul de corelație Pearson
+b) coeficientul de asociere Yulle
+c) !coeficientul de corelație Spearman
+d) coeficientul de corelație Student
+e) coeficientul de corelație Mann-Whitney
+---------------------------------------------------------------------
+411. Selectaţi afirmaţiile corecte despre corelaţiile statistice:
+a) !nu sunt perfecte
+b) exprimă legătura de la cauză la efect dintre fenomene
+c) !exprimă legătura de dependenţă dintre fenomene
+d) !sunt mai dificil de pus în evidenţă
+e) sunt rigide, perfecte
+---------------------------------------------------------------------
+412. Selectați afirmațiile valide privind legătura directă de corelaţie:
+a) !se stabilește între fenomene, care evoluează în acelaşi sens
+b) !presupune evoluţia în acelaşi sens a fenomenelor corelate, dar nu cu aceeaşi unitate
+de măsură
+c) se stabilește între fenomene, care evoluează în sens opus
+d) presupune evoluţia în acelaşi sens a fenomenelor corelate, cu aceeaşi unitate de măsură
+e) !dacă un fenomen creşte, creşte şi cel cu care se corelează
+---------------------------------------------------------------------
+413. Selectați afirmațiile valide privind legătura inversă de corelaţie:
+a) se stabilește între fenomene, care evoluează în acelaşi sens
+b) presupune evoluţia în acelaşi sens a fenomenelor corelate, dar nu cu aceeaşi unitate de
+măsură
+c) !se stabilește între fenomene, care evoluează în sens opus
+d) !presupune evoluţia în sens opus a fenomenelor corelate, dar nu cu aceeaşi unitate de
+măsură
+e) !dacă un fenomen creşte, cel cu care se corelează scade
+---------------------------------------------------------------------
+414. Selectati componentele obligatorii ale analizei corelaţiei:
+a) !aprecierea intensităţii legăturii de corelaţie
+b) !testarea semnificaţiei legăturii de corelaţie
+c) analiza variaţiei legăturii de corelaţie
+d) !determinarea direcţiei şi formei legăturii de corelaţie
+e) determinarea valorii coeficientului de aproximaţie
+---------------------------------------------------------------------
+415. Alegeți coeficienţii de corelaţie neparametrici:
+a) coeficientul de corelaţie Pearson
+b) !coeficientul de corelaţie Spearman
+c) !coeficientul de corelaţie Kendall
+d) !coeficientul de corelaţie Yulle
+e) coeficientul de corelaţie eta
+---------------------------------------------------------------------
+416. Selectaţi afirmaţiile corecte privitor la coeficientul de determinare:
+a) !este dependent de volumul eşantionului
+b) !se aplică în cazul unui coeficient de corelaţie liniară semnificativ
+c) se aplică indiferent de semnificația statistică a coeficientului de corelaţie liniară
+d) !arată cât din dispersia totală a rezultatului este explicată de variaţia factorului
+e) necesită analiză minuţioasă în cazurile eşantioanelor mari
+---------------------------------------------------------------------
+417. Selectați caracteristicile corelogramei în cazul legăturii de corelaţie inverse:
+a) !norul de puncte se dispune fuziform, oblic de sus în jos
+b) norul de puncte se dispune fuziform, oblic de jos în sus
+c) !norul de puncte se dispune fuziform, oblic de la stânga la dreapta
+d) norul de puncte se dispune fuziform, oblic de la dreapta la stânga
+e) punctele se dispun pe toată reţeaua grafică
+---------------------------------------------------------------------
+418. Selectați testul potrivit pentru determinarea legăturii dintre numărul de vaccinați și
+incidența bolii, conform datelor unui tabel 2x2:
+a) !coeficientul de asociere Yulle
+b) coeficientul de corelație Mann-Whitney
+c) coeficientul de corelație Student
+d) coeficientul de corelație Pearson
+e) coeficientul de corelație Spearman
+---------------------------------------------------------------------
+419. Urmare testării semnificaţiei coeficientului de corelaţie a fost obținută valoarea t=1,96,
+valoarea critică t pentru p<0,05 fiind 1,96. Selectați concluzia corectă:
+a) coeficientul de corelaţie este nesemnificativ
+b) !coeficientul de corelaţie este dubios
+c) coeficientul de corelaţie este semnificativ
+d) coeficientul de corelaţie este important
+e) coeficientul de corelaţie este neimportant
+---------------------------------------------------------------------
+420. Selectați cât din variația efectului medicamentului este determinată de doza acestuia,
+dacă coeficientul de corelație Pearson = 0,9:
+a) 91%
+b) !81%
+c) 50%
+d) 71%
+e) 61%
+---------------------------------------------------------------------
+421. Indicați cazul de utilizare a diagramei de structură în cerc:
+a) frecvența bolii în populație
+b) !repartiția populației pe sexe
+c) numărul total de bolnavi internați
+d) asigurarea populaţiei cu personal medical
+e) asigurarea populației cu paturi
+---------------------------------------------------------------------
+422. Selectați reprezentarea grafică corectă pentru dinamica asigurării populației cu personal
+medical:
+a) diagrama radială
+b) !diagrama în coloane
+c) diagrama Scatter
+d) diagrama polară
+e) diagrama sectorială
+---------------------------------------------------------------------
+423. Selectaţi indicatorul extensiv:
+a) !ponderea bolnavilor internați în stare gravă
+b) asigurarea populaţiei cu paturi
+c) !structura natalității pe sexe
+d) dinamica numărului de studenți la facultate
+e) !greutatea specifică a notelor insuficiente la examen
+---------------------------------------------------------------------
+424. Selectați tipul distribuției, reieșind din datele prezentate în tabelul din imagine:
+a) unimodală
+b) simetrică pozitivă
+c) !bimodală
+d) simetrică negativă
+e) multimodală
+3 4 5 5 5 6 6 7 7 7 8 9
+425. Selectați valoarea medianei, reieșind din datele prezentate în tabelul din imagine:
+[ ] 5
+[x] 6
+[ ] 7
+[ ] 6,5
+[ ] 5,5
+3 4 5 5 5 6 6 7 7 7 8 9 ---------------------------------------------------------------------
+426. Precizați direcția si intensitatea legăturii de corelație, reieșind din datele graficului
+alăturat:
+a) directă slabă
+b) directă medie
+c) inversă medie
+d) !directă puternică
+e) directă completă
+---------------------------------------------------------------------
+427. Precizați cât din variația fenomenului dependent este determinată de variația
+fenomenului independent, reieșind din datele graficului alăturat:
+a) !54,0%
+b) 10,95%
+c) 27,7%
+d) 78,9%
+e) 16,2%
+1) Selectați valoarea „р”, care nu permite respingerea ipotezei nule:
+a) 0,001
+b) 0,03
+c) 0,04
+d) 0,07
+e) 0,01
+---------------------------------------------------------------------
+2) Selectați condiția care determină precizia esantionului:
+a) cantitatea unităţilor statistice
+b) extragerea aleatoare a unităţilor statistice
+c) extragerea dirijată a unităţilor statistice
+d) extragerea variaţională a unităţilor statistice
+e) calitatea unităţilor statistice
+---------------------------------------------------------------------
+3) Selectați testul potrivit pentru compararea variabilelor nominale alternative în două eșantioane
+independente:
+a) chi patrat
+b) ANOVA
+c) Mann-Whitney
+d) Wilcoxon
+e) t-Student
+---------------------------------------------------------------------
+4) Selectați valoarea „р” care permite respingerea ipotezei nule:
+a) 0,15
+b) 0,04
+c) 0,05
+d) 0,06
+e) 0,10
+---------------------------------------------------------------------
+5) Selectați scala corectă pentru măsurarea variabilei "coeficientul de inteligență":
+a) nominală
+b) de raport
+c) ordinală
+d) factorială
+e) de interval
+---------------------------------------------------------------------
+6) Selectați testul potrivit pentru compararea nivelului mediu al glicemiei în două eșantioane
+independente, care respectă distribuția normală:
+a) Mann-Whitney
+b) ANOVA
+c) t-Student
+d) Wilcoxon
+e) chi patrat
+---------------------------------------------------------------------
+7) Selectați testul potrivit pentru compararea nivelului mediu al colesterolemiei în două eșantioane
+dependente, care respectă distribuția normală:
+a) chi patrat
+b) ANOVA
+c) Mann-Whitney
+d) Wilcoxon
+e) t-Student
+---------------------------------------------------------------------
+8) Selectați testul potrivit pentru compararea notelor la examen în două eșantioane dependente, care nu
+respectă distribuția normală:
+a) chi patrat
+b) ANOVA
+c) Mann-Whitney
+d) Wilcoxon
+e) t-Student
+---------------------------------------------------------------------
+9) Selectați testul potrivit pentru compararea notelor la examen în două eșantioane independente, care
+nu respectă distribuția normală:
+a) chi patrat
+b) ANOVA
+c) Mann-Whitney
+d) Wilcoxon
+e) t-Student
+---------------------------------------------------------------------
+10) Selectați testul potrivit pentru compararea nivelului ALT până la tratament în patru eșantioane
+independente, care respectă distribuția normală:
+a) chi patrat
+b) ANOVA
+c) Mann-Whitney
+d) Wilcoxon
+e) t-Student
+---------------------------------------------------------------------
+11) Selectați indicatorii de raport:
+a) riscul relativ în studiile de cohortă
+b) șansa expunerii la martori în studiile caz-control
+c) riscul atribuibil în studiile de cohortă
+d) riscul relativ în studiile clinice randomizate
+e) reducerea riscului relativ în studiile clinice randomizate
+---------------------------------------------------------------------
+12) Selectați indicatorul de raport:
+a) riscul bolii la expuși
+b) șansa expunerii la bolnavi
+c) riscul bolii la neexpuși
+d) riscul atribuibil la bolnavi
+e) reducerea riscului absolut
+---------------------------------------------------------------------
+13) Selectați indicatorii de tip rată:
+a) riscul bolii la expuși
+b) șansa expunerii la bolnavi
+c) riscul bolii la neexpuși
+d) șansa expunerii la nonbolnavi
+e) riscul atribuibil individual
+14) Selectați afirmațiile valide pentru distribuţia perfect simetrică:
+a) media este egală cu mediana şi modulul
+b) graficul are formă „de clopot"
+c) frecvenţele se distribuie simetric la dreapta şi la stânga valorii centrale
+d) repartiţia corespunde curbei Gauss-Laplace
+e) acţiunea factorilor întâmplători are caracter neregulat
+15) Alegeți afirmațiile corecte despre abaterea medie pătratică:
+a) este un indicator cu valoare redusă în analiza variaţiei
+b) apreciază omogenitatea valorilor individuale dintr-o serie
+c) se foloseşte la estimarea erorilor de selecţie
+d) se utilizează pentru delimitarea stărilor normale de cele patologice
+e) este un parametru al distribuţiei asimetrice
+---------------------------------------------------------------------
+16) Selectați particularitățile distribuției normale:
+a) simetrie absolută a distribuției
+b) suprafața de sub curba distribuției este egală cu 1
+c) în intervalul μ±1σ se află 95,5% valori individuale ale variabilei
+d) în intervalul μ±1σ se află 68,26% valori individuale ale variabilei
+e) simetrie relativă a distribuției
+---------------------------------------------------------------------
+17) Selectați particularitățile distribuției normale:
+a) distribuția este limitată bilateral
+b) media aritmetică, dominanta și mediana nu coincid
+c) distribuția este infinită bilateral
+d) în intervalul μ±2σ se află 95,45% valori individuale ale variabilei
+e) curba distribuției are formă „de clopot”
+---------------------------------------------------------------------
