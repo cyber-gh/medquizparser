@@ -21,14 +21,29 @@ def write_to_excel(question, answers, explanation, correct_answers):
 
     workbook.save('mastersheet.xlsx')
 
-def process_correct_answers(question):
+def process_question(question):
     answers = question["answers"]
+    clean_answers = []
     correct_answers_idx = []
-    for idx in range(len(answers)):
-        # print(answers[idx])
-        if  answers[idx].strip()[0] == "!":
+
+    in_bold = False
+    for idx,answer in enumerate(answers):
+        tmp = answer
+        if tmp.startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
+            tmp = tmp[2:].strip()
+        if tmp.startswith("**"):
+            tmp = tmp[2:].strip()
+            in_bold = True
+        if in_bold:
             correct_answers_idx.append(idx + 1)
-    clean_answers = [answer.strip()[1:] if answer.strip().startswith("!") else answer.strip() for answer in answers]
+
+        if tmp.endswith("**"):
+            tmp = tmp[:-2].strip()
+            in_bold = False
+        if tmp.startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
+            tmp = tmp[2:].strip()
+        clean_answers.append(tmp)
+
     return {
         "idx": question["idx"],
         "question": question["question"].strip(),
@@ -37,6 +52,18 @@ def process_correct_answers(question):
         "explanation": ""
     }
 
+
+def is_line_possibly_numeric(line):
+    if line.isnumeric():
+        return True, int(line)
+    if line.endswith("**"):
+        line = line[:-2]
+    if line.startswith("**"):
+        line = line[2:]
+    if line.isnumeric():
+        return True, int(line)
+    else:
+        return False, -1
 
 def main():
     f = open("input.txt", "r")
@@ -69,13 +96,13 @@ def main():
         if len(line) == 0:
             in_question = False
             continue
-        if "---" in line:
+        if "```" in line:
             in_question = False
             continue
-        if "." in line and line.split(".")[0].isnumeric():
+        if "." in line and is_line_possibly_numeric(line.split(".")[0])[0]:
             # Start of a new question
-            questions.append(process_correct_answers(current_question))
-            question_nr = int(line.split(".")[0])
+            questions.append(process_question(current_question))
+            question_nr = is_line_possibly_numeric(line.split(".")[0])[1]
             in_question = True
             current_question = {
                 "idx": question_nr,
@@ -84,8 +111,8 @@ def main():
                 "correct_answers_idx": [],
                 "explanation": ""
             }
-        elif line.startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
-            ans = line[2:]
+        elif line.startswith(("a)", "b)", "c)", "d)", "e)", "f)")) or line[2:].startswith(("a)", "b)", "c)", "d)", "e)", "f)")):
+            ans = line
             current_question["answers"].append(ans)
         else:
             if 1 <= len(current_question["answers"]) < 4:
@@ -96,8 +123,8 @@ def main():
             else:
                 current_question["question"] = current_question["question"] + " " + line
 
-    questions = questions[1:]
-    questions.append(process_correct_answers(current_question))
+    questions.append(process_question(current_question))
+    print(len(questions))
     for q in questions:
         print(q)
         write_to_excel(q["question"], q["answers"], "", q["correct_answers_idx"])
